@@ -1,0 +1,187 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,country
+Spin,SF Bay Area,Transportation,78.0,0.1,2022-09-30,United States
+Mux,SF Bay Area,Infrastructure,40.0,0.2,2022-09-29,United States
+DocuSign,SF Bay Area,Sales,671.0,0.09,2022-09-28,United States
+Divvy Homes,SF Bay Area,Real Estate,40.0,0.12,2022-09-27,United States
+Moss,Berlin,Finance,70.0,0.15,2022-09-23,Germany
+Foxtrot,Chicago,Food,26.0,0.035,2022-09-23,United States
+Truiloo,Vancouver,Security,24.0,0.05,2022-09-23,Canada
+NYDIG,New York City,Crypto,110.0,0.33,2022-09-22,United States
+Kitty Hawk,SF Bay Area,Aerospace,100.0,1.0,2022-09-21,United States
+Ada,Toronto,Support,78.0,0.16,2022-09-20,Canada
+99,Sao Paulo,Transportation,75.0,0.02,2022-09-20,Brazil
+Vesalius Therapeutics,Boston,Healthcare,29.0,0.43,2022-09-19,United States
+Clear,Bengaluru,Finance,190.0,0.2,2022-09-16,India
+TrueLayer,London,Finance,40.0,0.1,2022-09-16,United States
+LivePerson,New York City,Support,193.0,0.11,2022-09-15,United States
+Acast,Stockholm,Media,70.0,0.15,2022-09-15,Sweden
+WorkRamp,SF Bay Area,HR,35.0,0.2,2022-09-15,United States
+Twilio,SF Bay Area,Other,800.0,0.11,2022-09-14,United States
+Pitch,Berlin,Marketing,59.0,0.3,2022-09-14,Germany
+Infarm,Berlin,Other,50.0,0.05,2022-09-14,Germany
+Rubius,Boston,Healthcare,160.0,0.75,2022-09-13,United States
+Checkout.com,London,Finance,100.0,0.05,2022-09-13,United Kingdom
+Taboola,New York City,Marketing,100.0,0.06,2022-09-13,United States
+Patreon,SF Bay Area,Media,80.0,0.17,2022-09-13,United States
+Compete,Tel Aviv,HR,11.0,0.28,2022-09-12,Israel
+Pomelo Fashion,Bangkok,Retail,55.0,0.08,2022-09-08,Thailand
+Simple Feast,Copenhagen,Food,150.0,1.0,2022-09-07,Denmark
+Intercom,SF Bay Area,Support,49.0,0.05,2022-09-07,United States
+Pendo,Raleigh,Product,45.0,0.05,2022-09-07,United States
+Demandbase,SF Bay Area,Sales,27.0,0.03,2022-09-07,United States
+Brave Care,Portland,Healthcare,40.0,0.33,2022-09-06,United States
+Lawgeex,Tel Aviv,Legal,30.0,0.33,2022-09-06,Israel
+Kuda,Lagos,Finance,23.0,0.05,2022-09-02,Nigeria
+2TM,Sao Paulo,Crypto,100.0,0.15,2022-09-01,Brazil
+Innovaccer,SF Bay Area,Healthcare,90.0,0.08,2022-09-01,United States
+Urban Sports Club,Berlin,Fitness,55.0,0.15,2022-09-01,Germany
+Snap,Los Angeles,Consumer,1280.0,0.2,2022-08-31,United States
+GoodRx,Los Angeles,Healthcare,140.0,0.16,2022-08-31,United States
+Smava,Berlin,Finance,100.0,0.1,2022-08-31,Germany
+Hippo Insurance,SF Bay Area,Finance,70.0,0.1,2022-08-31,United States
+TCR2,Boston,Healthcare,30.0,0.2,2022-08-31,United States
+Apartment List,SF Bay Area,Real Estate,29.0,0.1,2022-08-31,United States
+Artnight,Berlin,Retail,26.0,0.36,2022-08-31,Germany
+Immersive Labs,Bristol,Security,38.0,0.1,2022-08-30,United Kingdom
+54gene,Washington D.C.,Healthcare,95.0,0.3,2022-08-29,United States
+Argyle,New York City,Finance,20.0,0.07,2022-08-26,United States
+Loja Integrada,Sao Paulo,Retail,25.0,0.1,2022-08-25,Brazil
+Reali,SF Bay Area,Real Estate,140.0,1.0,2022-08-24,United States
+Loop,Washington D.C.,Finance,15.0,0.2,2022-08-24,United States
+Tier Mobility,Berlin,Transportation,180.0,0.16,2022-08-23,Germany
+Packable,New York City,Retail,138.0,0.2,2022-08-23,United States
+Q4,Toronto,Other,50.0,0.08,2022-08-23,Canada
+Skedulo,SF Bay Area,HR,31.0,0.08,2022-08-23,United States
+Plato,SF Bay Area,HR,29.0,0.5,2022-08-23,United States
+NSO,Tel Aviv,Security,100.0,0.14,2022-08-21,Israel
+Tufin,Boston,Security,55.0,0.1,2022-08-21,United States
+Amperity,Seattle,Marketing,13.0,0.03,2022-08-20,United States
+Wayfair,Boston,Retail,870.0,0.05,2022-08-19,United States
+Hodlnaut,Singapore,Crypto,40.0,0.8,2022-08-19,Singapore
+New Relic,SF Bay Area,Infrastructure,110.0,0.05,2022-08-18,United States
+Wheel,Austin,Healthcare,35.0,0.17,2022-08-18,United States
+Malwarebytes,SF Bay Area,Security,125.0,0.14,2022-08-17,United States
+Fluke,Sao Paulo,Other,83.0,0.8200000000000001,2022-08-17,Brazil
+Swyftx,Brisbane,Crypto,74.0,0.21,2022-08-17,Australia
+Genesis,New York City,Crypto,52.0,0.2,2022-08-17,United States
+AlayaCare,Montreal,Healthcare,80.0,0.14,2022-08-16,Canada
+Pliops,Tel Aviv,Data,12.0,0.09,2022-08-16,Israel
+Woven,Indianapolis,HR,5.0,0.15,2022-08-16,United States
+Sema4,Stamford,Healthcare,250.0,0.13,2022-08-15,United States
+Blend,SF Bay Area,Finance,220.0,0.12,2022-08-15,United States
+ContraFect,New York City,Healthcare,16.0,0.37,2022-08-15,United States
+Peloton,New York City,Fitness,784.0,0.13,2022-08-12,United States
+Truepill,SF Bay Area,Healthcare,175.0,0.33,2022-08-11,United States
+Calm,SF Bay Area,Healthcare,90.0,0.2,2022-08-11,United States
+FourKites,Chicago,Logistics,60.0,0.08,2022-08-11,United States
+Marketforce,Nairobi,Retail,54.0,0.09,2022-08-11,Kenya
+Trybe,Sao Paulo,Education,47.0,0.1,2022-08-10,Brazil
+Permutive,London,Marketing,30.0,0.12,2022-08-10,United Kingdom
+GoHealth,Chicago,Healthcare,800.0,0.2,2022-08-09,United States
+Hootsuite,Vancouver,Marketing,400.0,0.3,2022-08-09,Canada
+Nutanix,SF Bay Area,Infrastructure,270.0,0.04,2022-08-09,United States
+Quanterix,Boston,Healthcare,130.0,0.25,2022-08-09,United States
+MadeiraMadeira,Curitiba,Retail,60.0,0.03,2022-08-09,Brazil
+Linktree,Melbourne,Consumer,50.0,0.17,2022-08-09,Australia
+Shogun,SF Bay Area,Retail,48.0,0.3,2022-08-09,United States
+Groupon,Chicago,Retail,500.0,0.15,2022-08-08,United States
+Loggi,Sao Paulo,Logistics,500.0,0.15,2022-08-08,Brazil
+Perion,Tel Aviv,Marketing,20.0,0.05,2022-08-08,Israel
+iRobot,Boston,Consumer,140.0,0.1,2022-08-05,United States
+Mejuri,Toronto,Retail,50.0,0.1,2022-08-05,Canada
+Uberflip,Toronto,Marketing,31.0,0.17,2022-08-05,Canada
+Doma,SF Bay Area,Finance,250.0,0.13,2022-08-04,United States
+Article,Vancouver,Retail,216.0,0.17,2022-08-04,Canada
+Jam City,Los Angeles,Consumer,200.0,0.17,2022-08-04,United States
+10X Genomics,SF Bay Area,Healthcare,100.0,0.08,2022-08-04,United States
+LEAD,Mumbai,Education,80.0,0.04,2022-08-04,India
+On Deck,SF Bay Area,Education,73.0,0.33,2022-08-04,United States
+RenoRun,Montreal,Construction,70.0,0.12,2022-08-04,Canada
+Unbounce,Vancouver,Marketing,47.0,0.2,2022-08-03,Canada
+Robinhood,SF Bay Area,Finance,713.0,0.23,2022-08-02,United States
+Latch,New York City,Security,115.0,0.37,2022-08-02,United States
+Nylas,SF Bay Area,Product,80.0,0.25,2022-08-02,United States
+Outreach,Seattle,Sales,60.0,0.05,2022-08-02,United States
+Sendy,Nairobi,Logistics,54.0,0.2,2022-08-02,Kenya
+Sendy,Nairobi,Logistics,30.0,0.1,2022-08-02,Kenya
+Stedi,Boulder,Product,23.0,0.3,2022-08-02,United States
+Glossier,New York City,Retail,19.0,0.08,2022-08-02,United States
+Hash,Sao Paulo,Finance,58.0,0.5,2022-08-01,Brazil
+Metigy,Sydney,Marketing,75.0,1.0,2022-07-31,Australia
+Vee,Tel Aviv,HR,16.0,0.32,2022-07-31,Israel
+Clearco,Toronto,Finance,125.0,0.25,2022-07-29,Canada
+Quantcast,SF Bay Area,Marketing,40.0,0.06,2022-07-29,United States
+Career Karma,SF Bay Area,Education,60.0,0.33,2022-07-28,United States
+Metromile,SF Bay Area,Finance,60.0,0.2,2022-07-28,United States
+Rivian,Detroit,Transportation,840.0,0.06,2022-07-27,United States
+Vox Media,Washington D.C.,Media,39.0,0.02,2022-07-27,United States
+Coinsquare,Toronto,Crypto,30.0,0.24,2022-07-27,Canada
+Skai,Tel Aviv,Marketing,30.0,0.04,2022-07-27,Israel
+Shopify,Ottawa,Retail,1000.0,0.1,2022-07-26,Canada
+Fiverr,Tel Aviv,Other,60.0,0.08,2022-07-26,Israel
+InDebted,Sydney,Finance,40.0,0.17,2022-07-26,Australia
+Outbrain,New York City,Marketing,38.0,0.03,2022-07-26,United States
+Dover,SF Bay Area,Recruiting,23.0,0.3,2022-07-26,United States
+Immutable,Sydney,Crypto,20.0,0.06,2022-07-26,Australia
+Pear Therapeutics ,Boston,Healthcare,25.0,0.09,2022-07-25,United States
+Soluto,Tel Aviv,Support,120.0,1.0,2022-07-24,Israel
+Eucalyptus,Sydney,Healthcare,50.0,0.2,2022-07-22,United States
+Quanto,Sao Paulo,Finance,28.0,0.22,2022-07-22,Brazil
+Clarify Health,SF Bay Area,Healthcare,15.0,0.05,2022-07-22,United States
+Blockchain.com,London,Crypto,150.0,0.25,2022-07-21,United Kingdom
+Callisto Media,SF Bay Area,Media,140.0,0.35,2022-07-21,United States
+AppGate,Miami,Security,130.0,0.22,2022-07-21,United States
+WHOOP,Boston,Fitness,95.0,0.15,2022-07-21,United States
+Rad Power Bikes,Seattle,Transportation,63.0,0.1,2022-07-21,United States
+Lunchbox,New York City,Food,60.0,0.33,2022-07-21,United States
+RealSelf,Seattle,Healthcare,11.0,0.05,2022-07-21,United States
+Flyhomes,Seattle,Real Estate,200.0,0.2,2022-07-20,United States
+Lyft,SF Bay Area,Transportation,60.0,0.02,2022-07-20,United States
+Introhive,Ferdericton,Sales,57.0,0.16,2022-07-20,Canada
+Zencity,Tel Aviv,Other,30.0,0.2,2022-07-20,Israel
+Forma.ai,Toronto,Sales,15.0,0.09,2022-07-20,Canada
+Olive,Columbus,Healthcare,450.0,0.31,2022-07-19,United States
+Stint,London,HR,28.0,0.2,2022-07-19,United Kingdom
+Gemini,New York City,Crypto,68.0,0.07,2022-07-18,United States
+Lusha,New York City,Marketing,30.0,0.1,2022-07-18,United States
+Bright Money,Bengaluru,Finance,100.0,0.5,2022-07-15,India
+Project44,Chicago,Logistics,63.0,0.05,2022-07-15,United States
+Heroes,London,Retail,24.0,0.2,2022-07-15,United States
+Zego,London,Finance,85.0,0.17,2022-07-14,United Kingdom
+The Mom Project,Chicago,HR,54.0,0.15,2022-07-14,United States
+Unstoppable Domains,SF Bay Area,Crypto,42.0,0.25,2022-07-14,United States
+Kiavi,SF Bay Area,Real Estate,39.0,0.07,2022-07-14,United States
+Wave,Dakar,Finance,300.0,0.15,2022-07-13,Senegal
+Tonal,SF Bay Area,Fitness,262.0,0.35,2022-07-13,United States
+Fabric,New York City,Logistics,120.0,0.4,2022-07-13,United States
+Bryter,Berlin,Product,100.0,0.3,2022-07-13,Germany
+ChowNow,Los Angeles,Food,100.0,0.2,2022-07-13,United States
+Involves,Florianópolis,Retail,70.0,0.18,2022-07-13,Brazil
+Gopuff,Philadelphia,Food,1500.0,0.1,2022-07-12,United States
+Hubilo,SF Bay Area,Marketing,45.0,0.12,2022-07-12,United States
+Hopin,London,Other,242.0,0.29,2022-07-11,United Kingdom
+SundaySky,New York City,Marketing,24.0,0.13,2022-07-11,United States
+Butler Hospitality,New York City,Food,1000.0,1.0,2022-07-08,United States
+Calibrate,New York City,Healthcare,156.0,0.24,2022-07-08,United States
+Argo AI,Pittsburgh,Transportation,150.0,0.05,2022-07-07,United States
+Next Insurance,SF Bay Area,Finance,150.0,0.17,2022-07-07,United States
+Emotive,Los Angeles,Marketing,30.0,0.18,2022-07-07,United States
+Remote,SF Bay Area,HR,100.0,0.09,2022-07-06,United States
+Anodot,Tel Aviv,Data,35.0,0.27,2022-07-06,United States
+SQream,New York City,Data,30.0,0.18,2022-07-06,United States
+Loft,Sao Paulo,Real Estate,384.0,0.12,2022-07-05,Brazil
+Bizzabo,New York City,Marketing,120.0,0.3,2022-07-05,United States
+eToro,Tel Aviv,Finance,100.0,0.06,2022-07-05,Israel
+Verbit,New York City,Data,80.0,0.1,2022-07-05,United States
+Outschool,SF Bay Area,Education,31.0,0.18,2022-07-05,United States
+Bullish,Hong Kong,Crypto,30.0,0.08,2022-07-05,Hong Kong
+Transmit Security,Boston,Security,27.0,0.07,2022-07-05,United States
+Thimble,New York City,Finance,20.0,0.33,2022-07-05,United States
+Syte,Tel Aviv,Retail,13.0,0.08,2022-07-05,Israel
+Lightricks,Jerusalem,Consumer,80.0,0.12,2022-07-04,Israel
+Sendle,Sydney,Logistics,27.0,0.12,2022-07-04,Australia
+Lendis,Berlin,Other,18.0,0.15,2022-07-04,Germany
+Celsius,New York City,Crypto,150.0,0.25,2022-07-03,United States
+WanderJaunt,SF Bay Area,Travel,85.0,1.0,2022-07-01,United States
+Canoo,Los Angeles,Transportation,58.0,0.06,2022-07-01,United States
+Teleport,SF Bay Area,Infrastructure,15.0,0.06,2022-07-01,United States
