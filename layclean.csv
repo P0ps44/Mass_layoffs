@@ -1,0 +1,177 @@
+location,industry,total_laid_off,percentage_laid_off,date,country
+SF Bay Area,Retail,400.0,0.18,2022-06-30,United States
+Bengaluru,Education,170.0,1.0,2022-06-30,India
+New York City,Finance,40.0,0.08,2022-06-30,United States
+New York City,Retail,30.0,0.2,2022-06-30,United States
+Boulder,Product,20.0,0.12,2022-06-30,United States
+Hamburg,Finance,14.0,0.1,2022-06-30,Germany
+SF Bay Area,Crypto,12.0,0.05,2022-06-30,United States
+SF Bay Area,Other,200.0,0.04,2022-06-29,United States
+SF Bay Area,Consumer,85.0,0.08,2022-06-29,United States
+Seattle,Data,80.0,0.19,2022-06-29,United States
+Toronto,Transportation,76.0,0.22,2022-06-29,Canada
+New Delhi,Transportation,40.0,0.2,2022-06-29,India
+Berlin,Other,18.0,0.3,2022-06-29,Germany
+SF Bay Area,Transportation,16.0,0.25,2022-06-29,United States
+SF Bay Area,Media,13.0,0.14,2022-06-29,United States
+Beijing,Crypto,300.0,0.3,2022-06-28,China
+Detroit,Retail,120.0,0.08,2022-06-28,United States
+Los Angeles,Healthcare,110.0,0.4,2022-06-28,United States
+Dubai,Healthcare,50.0,0.1,2022-06-28,United Arab Emirates
+SF Bay Area,Data,30.0,0.08,2022-06-28,Israel
+Sydney,Healthcare,18.0,0.5,2022-06-28,Australia
+SF Bay Area,Marketing,300.0,0.12,2022-06-27,United States
+New York City,Data,210.0,0.05,2022-06-27,United States
+Bengaluru,Retail,180.0,0.04,2022-06-27,India
+Melbourne,Crypto,70.0,0.3,2022-06-27,Australia
+SF Bay Area,Data,27.0,0.25,2022-06-27,United States
+Vienna,Crypto,270.0,0.27,2022-06-24,Austria
+Atlanta,Finance,90.0,0.23,2022-06-24,United States
+Dallas,Finance,41.0,0.14,2022-06-24,United States
+SF Bay Area,Finance,40.0,0.12,2022-06-24,United States
+SF Bay Area,Media,300.0,0.03,2022-06-23,United States
+Boston,Security,70.0,0.09,2022-06-23,United States
+Spokane,Security,22.0,0.13,2022-06-23,United States
+SF Bay Area,Finance,15.0,0.07,2022-06-23,United States
+Los Angeles,Marketing,8.0,0.13,2022-06-23,United States
+SF Bay Area,Education,120.0,0.2,2022-06-22,United States
+Washington D.C.,Security,90.0,0.35,2022-06-22,United States
+Washington D.C.,Security,55.0,0.17,2022-06-22,United States
+Boston,Transportation,35.0,0.07,2022-06-22,United States
+Stockholm,Transportation,35.0,0.1,2022-06-22,United States
+Toronto,Food,23.0,0.16,2022-06-22,Canada
+Curitiba,Finance,340.0,0.2,2022-06-21,Brazil
+Los Angeles,Support,52.0,0.0,2022-06-21,United States
+Los Angeles,Marketing,40.0,0.3,2022-06-21,United States
+SF Bay Area,Product,24.0,0.08,2022-06-21,United States
+Singapore,Crypto,600.0,0.3,2022-06-20,Singapore
+SF Bay Area,Healthcare,101.0,1.0,2022-06-20,United States
+Singapore,Retail,100.0,0.12,2022-06-20,Singapore
+Chennai,Food,80.0,0.3,2022-06-20,India
+Toronto,Retail,30.0,0.55,2022-06-20,Canada
+Sydney,Energy,30.0,0.15,2022-06-20,Australia
+Gurugram,Retail,191.0,0.3,2022-06-19,India
+Dubai,Crypto,9.0,0.05,2022-06-19,United Arab Emirates
+Bengaluru,Education,150.0,0.03,2022-06-18,India
+Reno,Finance,69.0,0.13,2022-06-17,United States
+Columbus,Security,16.0,0.2,2022-06-17,United States
+New York City,Food,50.0,0.05,2022-06-16,United States
+SF Bay Area,Real Estate,45.0,0.15,2022-06-16,United States
+Helsinki,Retail,250.0,0.17,2022-06-15,Finland
+Toronto,Finance,159.0,0.13,2022-06-15,Canada
+SF Bay Area,Food,150.0,0.1,2022-06-15,United States
+Boston,Legal,110.0,0.25,2022-06-15,United States
+Tel Aviv,Media,60.0,0.15,2022-06-15,Israel
+SF Bay Area,Other,23.0,0.23,2022-06-15,United States
+Tel Aviv,Media,14.0,0.05,2022-06-15,Israel
+Toronto,Logistics,10.0,0.3,2022-06-15,Canada
+SF Bay Area,Crypto,1100.0,0.18,2022-06-14,United States
+Seattle,Real Estate,470.0,0.08,2022-06-14,United States
+New York City,Real Estate,450.0,0.1,2022-06-14,United States
+Sao Paulo,Healthcare,75.0,0.15,2022-06-14,Brazil
+New Delhi,Healthcare,50.0,0.33,2022-06-14,India
+Boulder,Crypto,24.0,0.1,2022-06-14,United States
+New York City,Crypto,250.0,0.2,2022-06-13,United States
+Los Angeles,Media,56.0,0.33,2022-06-13,United States
+SF Bay Area,Education,33.0,0.4,2022-06-13,United States
+Singapore,Crypto,260.0,0.05,2022-06-10,Singapore
+New Delhi,Logistics,250.0,0.3,2022-06-10,India
+Berlin,Retail,100.0,0.1,2022-06-10,Germany
+Sao Paulo,Healthcare,60.0,0.2,2022-06-10,Brazil
+London,Finance,45.0,0.15,2022-06-10,United Kingdom
+Los Angeles,Finance,20.0,0.08,2022-06-10,United States
+Atlanta,Security,950.0,0.25,2022-06-09,United States
+SF Bay Area,Retail,330.0,0.15,2022-06-09,United States
+Stockholm,Retail,200.0,0.15,2022-06-09,Sweden
+Seattle,Logistics,90.0,0.07,2022-06-09,United States
+Chicago,Infrastructure,80.0,0.4,2022-06-09,United States
+Malmo,Retail,70.0,0.05,2022-06-09,Sweden
+Boston,Retail,40.0,1.0,2022-06-09,United States
+Singapore,Finance,31.0,0.14,2022-06-09,Singapore
+Boston,Education,26.0,0.05,2022-06-09,United States
+SF Bay Area,Travel,250.0,0.21,2022-06-08,United States
+SF Bay Area,Healthcare,150.0,0.15,2022-06-08,United States
+Kuala Lumpur,Retail,50.0,0.2,2022-06-08,Malaysia
+London,Transportation,750.0,0.15,2022-06-07,United Kingdom
+London,Transportation,750.0,0.15,2022-06-07,United Kingdom
+Bengaluru,Finance,180.0,0.15,2022-06-07,India
+Los Angeles,Transportation,138.0,0.23,2022-06-07,United States
+Bend,Other,50.0,0.07,2022-06-06,United States
+Brasilia,Consumer,60.0,0.2,2022-06-03,Brazil
+SF Bay Area,Consumer,23.0,0.22,2022-06-03,United States
+New York City,Food,21.0,0.15,2022-06-03,United States
+SF Bay Area,Healthcare,250.0,0.08,2022-06-02,United States
+New York City,Finance,170.0,0.25,2022-06-02,United States
+Gurugram,Construction,140.0,0.5,2022-06-02,India
+New York City,Crypto,100.0,0.1,2022-06-02,United States
+Atlanta,Logistics,59.0,0.08,2022-06-02,United States
+SF Bay Area,Consumer,30.0,0.33,2022-06-02,United States
+SF Bay Area,Consumer,25.0,0.25,2022-06-02,United States
+Amsterdam,Transportation,500.0,0.1,2022-06-01,Netherlands
+Boston,Security,100.0,0.06,2022-06-01,United States
+Gurugram,Education,100.0,1.0,2022-06-01,India
+Sao Paulo,Crypto,90.0,0.12,2022-06-01,Brazil
+London,Finance,65.0,0.1,2022-06-01,United Kingdom
+SF Bay Area,Product,34.0,0.14,2022-06-01,United States
+London,Travel,30.0,0.35,2022-06-01,United Kingdom
+Tel Aviv,Consumer,250.0,0.06,2022-05-31,Israel
+Stamford,Finance,44.0,0.33,2022-05-31,United States
+Salt Lake City,Education,12.0,0.25,2022-05-31,United States
+Dubai,Transportation,400.0,0.32,2022-05-30,United Arab Emirates
+Bengaluru,Consumer,100.0,0.1,2022-05-30,India
+Sao Paulo,Finance,100.0,0.03,2022-05-30,Brazil
+Bengaluru,Education,145.0,0.3,2022-05-27,India
+London,Finance,29.0,0.26,2022-05-27,United Kingdom
+Sao Paulo,Retail,200.0,0.13,2022-05-26,Brazil
+Mexico City,Crypto,80.0,0.11,2022-05-26,Mexico
+London,Consumer,50.0,0.02,2022-05-26,United Kingdom
+SF Bay Area,Security,300.0,0.2,2022-05-25,United States
+SF Bay Area,Finance,240.0,0.27,2022-05-25,United States
+Berlin,Finance,50.0,0.25,2022-05-25,Germany
+Berlin,Finance,45.0,0.2,2022-05-25,Germany
+Cincinnati,Finance,30.0,0.2,2022-05-25,United States
+Berlin,Food,300.0,0.5,2022-05-24,Germany
+Stockholm,Finance,700.0,0.1,2022-05-23,Sweden
+Buenos Aires,Crypto,80.0,0.45,2022-05-23,Argentina
+Tel Aviv,Data,65.0,1.0,2022-05-23,Israel
+San Diego,Other,60.0,0.07,2022-05-23,United States
+New York City,Consumer,30.0,0.2,2022-05-23,United States
+Bengaluru,Healthcare,600.0,0.75,2022-05-21,India
+New York City,Security,130.0,0.28,2022-05-20,United States
+Boulder,Media,87.0,0.15,2022-05-20,United States
+SF Bay Area,Consumer,70.0,0.1,2022-05-20,United States
+Gurugram,Transportation,600.0,0.06,2022-05-19,India
+Bengaluru,Education,424.0,0.07,2022-05-18,India
+SF Bay Area,Media,150.0,0.01,2022-05-17,United States
+Stockholm,Healthcare,100.0,0.1,2022-05-17,Sweden
+Miami,Consumer,90.0,0.08,2022-05-17,United States
+Sao Paulo,Food,100.0,0.4,2022-05-16,United States
+Moscow,Retail,400.0,0.4,2022-05-14,Russia
+Boston,Data,70.0,0.07,2022-05-11,United States
+Phoenix,Transportation,2500.0,0.12,2022-05-10,United States
+SF Bay Area,Finance,310.0,0.15,2022-05-10,United States
+London,Travel,200.0,0.33,2022-05-10,United Kingdom
+New York City,Security,30.0,0.06,2022-05-10,United States
+Paris,Other,350.0,0.5,2022-05-09,France
+New York City,Transportation,270.0,0.14,2022-05-09,United States
+Miami,Transportation,750.0,0.05,2022-05-06,United States
+Bengaluru,Education,200.0,0.03,2022-05-05,India
+SF Bay Area,Product,90.0,0.1,2022-05-05,United States
+SF Bay Area,Education,72.0,0.25,2022-05-05,United States
+Sydney,Food,300.0,1.0,2022-05-04,Australia
+Chicago,Consumer,87.0,0.25,2022-05-04,United States
+SF Bay Area,Finance,45.0,0.3,2022-05-04,United States
+Tel Aviv,Food,500.0,0.67,2022-05-01,Israel
+SF Bay Area,Education,150.0,0.19,2022-04-28,United States
+SF Bay Area,Finance,340.0,0.09,2022-04-26,United States
+Toronto,Retail,29.0,0.34,2022-04-26,Canada
+Shanghai,Consumer,180.0,0.09,2022-04-21,China
+Sao Paulo,Retail,260.0,0.3,2022-04-20,Brazil
+SF Bay Area,Finance,200.0,0.1,2022-04-19,United States
+Sao Paulo,Real Estate,160.0,0.04,2022-04-19,Brazil
+SF Bay Area,Healthcare,44.0,1.0,2022-04-14,United States
+Seattle,Transportation,100.0,0.14,2022-04-12,United States
+New York City,Food,20.0,0.1,2022-04-08,United States
+Bengaluru,Education,1000.0,0.17,2022-04-07,India
+Non-U.S.,Crypto,75.0,0.25,2022-04-04,Seychelles
+Vancouver,Media,23.0,0.38,2022-04-04,Canada
