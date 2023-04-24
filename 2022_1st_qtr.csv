@@ -1,0 +1,19 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,country,mass_layoff
+Rasa,Berlin,Data,59.0,0.4,2022-03-30,Germany,1
+Gopuff,Philadelphia,Food,450.0,0.03,2022-03-29,United States,1
+Thinkific,Vancouver,Education,100.0,0.2,2022-03-29,Canada,1
+Storytel,Stockholm,Media,100.0,0.1,2022-03-17,Sweden,1
+Trell,Bengaluru,Retail,300.0,0.5,2022-03-15,India,1
+Knock,New York City,Real Estate,115.0,0.46,2022-03-15,United States,1
+Better.com,New York City,Real Estate,3000.0,0.33,2022-03-08,United States,1
+Adaptive Biotechnologies,Seattle,Healthcare,100.0,0.12,2022-03-08,United States,1
+Hyperscience,New York City,Data,100.0,0.25,2022-03-03,United States,1
+Wish,SF Bay Area,Retail,190.0,0.15,2022-03-01,United States,1
+Virgin Hyperloop,Los Angeles,Transportation,111.0,0.5,2022-02-21,United States,1
+Liv Up,Sao Paulo,Food,100.0,0.15,2022-02-16,Brazil,1
+Homie,Salt Lake City,Real Estate,119.0,0.29,2022-02-14,United States,1
+Hopin,London,Other,138.0,0.12,2022-02-10,United States,1
+Daily Harvest,New York City,Food,60.0,0.2,2022-02-10,United States,1
+Peloton,New York City,Fitness,2800.0,0.2,2022-02-08,United States,1
+Rhino,New York City,Real Estate,57.0,0.2,2022-02-03,United States,1
+Glossier,New York City,Consumer,80.0,0.33,2022-01-26,United States,1
