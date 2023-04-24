@@ -1,0 +1,4 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,country,mass_layoff
+Better.com,New York City,Real Estate,900.0,0.09,2021-12-01,United States,1
+BitTitan,Seattle,Data,70.0,0.27,2021-11-18,United States,1
+Zillow,Seattle,Real Estate,2000.0,0.25,2021-11-02,United States,1
