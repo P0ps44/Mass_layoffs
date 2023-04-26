@@ -1,0 +1,1246 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,country,mass_layoff,global_industry
+Pear Therapeutics,Boston,Healthcare,170.0,0.92,2023-04-07,United States,1.0,Healthcare
+ZestMoney,Bengaluru,Finance,100.0,0.2,2023-04-07,India,1.0,Financial
+Absolute Software,Vancouver,Security,40.0,0.05,2023-04-06,Canada,0.0,Industrial
+Avocargo,Berlin,Transportation,16.0,1.0,2023-04-06,Germany,0.0,Energy
+Dunzo,Bengaluru,Food,300.0,0.3,2023-04-05,India,1.0,Consumer_Staples
+Amplitude,SF Bay Area,Data,99.0,0.13,2023-04-05,United States,1.0,Info_Tech
+1K Kirana,Gurugram,Retail,600.0,0.4,2023-04-04,India,1.0,Consumer_Staples
+Boost,New York City,Finance,15.0,0.2,2023-04-04,United States,0.0,Financial
+Hyland Software,Cleveland,Other,1000.0,0.2,2023-04-03,United States,1.0,Other
+View,SF Bay Area,Other,170.0,0.23,2023-04-03,United States,1.0,Other
+Textio,Seattle,Recruiting,15.0,0.12,2023-04-03,United States,0.0,Industrial
+Domestika,Madrid,Education,89.0,0.45,2023-03-31,Spain,1.0,Consumer_Discretionary
+Roku,SF Bay Area,Media,200.0,0.06,2023-03-30,United States,1.0,Communication
+LendingTree,Charlotte,Finance,150.0,0.13,2023-03-30,United States,1.0,Financial
+FanClash,Gurugram,Consumer,100.0,0.75,2023-03-30,India,1.0,Consumer_Discretionary
+Loop,Austin,Finance,19.0,0.25,2023-03-30,United States,0.0,Financial
+Electronic Arts,SF Bay Area,Consumer,780.0,0.06,2023-03-29,United States,1.0,Consumer_Discretionary
+iCAD,Nashua,Healthcare,23.0,0.28,2023-03-29,United States,0.0,Healthcare
+Lucid Motors,SF Bay Area,Transportation,1300.0,0.18,2023-03-28,United States,1.0,Energy
+AEye,SF Bay Area,Transportation,46.0,0.33,2023-03-28,United States,0.0,Energy
+Slite,Paris,Other,10.0,0.25,2023-03-23,France,0.0,Other
+Indeed,Austin,HR,2200.0,0.15,2023-03-22,United States,1.0,Industrial
+Glassdoor,SF Bay Area,HR,140.0,0.15,2023-03-22,United States,1.0,Industrial
+Wejo,Chester,Transportation,40.0,0.16,2023-03-22,United Kingdom,0.0,Energy
+Marvell,SF Bay Area,Hardware,320.0,0.04,2023-03-21,United States,1.0,Info_Tech
+Workhuman,Dublin,HR,130.0,0.1,2023-03-21,Ireland,1.0,Industrial
+FreshBooks,Toronto,Finance,80.0,0.1,2023-03-21,Canada,1.0,Financial
+Smallcase,Bengaluru,Finance,15.0,0.04,2023-03-21,India,0.0,Financial
+Livspace,Bengaluru,Retail,100.0,0.02,2023-03-17,India,1.0,Consumer_Staples
+Symend,Calgary,Other,50.0,0.25,2023-03-17,Canada,1.0,Other
+Runtastic,Linz,Fitness,70.0,0.28,2023-03-16,Austria,1.0,Consumer_Discretionary
+Course Hero,SF Bay Area,Education,42.0,0.15,2023-03-16,United States,0.0,Consumer_Discretionary
+Leafly,Seattle,Retail,40.0,0.21,2023-03-16,United States,0.0,Consumer_Staples
+Dukaan,Bengaluru,Retail,56.0,0.3,2023-03-15,India,1.0,Consumer_Staples
+Boxed,New York City,Retail,32.0,0.25,2023-03-15,United States,0.0,Consumer_Staples
+TradeWindow,Auckland,Finance,25.0,0.3,2023-03-15,New Zealand,0.0,Financial
+Fetch,Madison,Retail,100.0,0.1,2023-03-14,United States,1.0,Consumer_Staples
+Anchorage Digital,SF Bay Area,Crypto,75.0,0.2,2023-03-14,United States,1.0,Financial
+Avidbots,Kitchener,Hardware,50.0,0.14,2023-03-14,Canada,1.0,Info_Tech
+Kaleidoscope,Minneapolis,Finance,15.0,0.3,2023-03-14,United States,0.0,Financial
+Xero,Wellington,Finance,800.0,0.15,2023-03-09,New Zealand,1.0,Financial
+Gopuff,Philadelphia,Food,100.0,0.02,2023-03-09,United States,1.0,Consumer_Staples
+Pristyn Care,Gurugram,Healthcare,300.0,0.15,2023-03-07,India,1.0,Healthcare
+Zwift,Los Angeles,Fitness,80.0,0.15,2023-03-07,United States,1.0,Consumer_Discretionary
+Atlassian,Sydney,Other,500.0,0.05,2023-03-06,Australia,1.0,Other
+SiriusXM,New York City,Media,475.0,0.08,2023-03-06,United States,1.0,Communication
+Loft,Sao Paulo,Real Estate,340.0,0.15,2023-03-03,Brazil,1.0,Real_Estate
+Embark Trucks,SF Bay Area,Transportation,230.0,0.7,2023-03-03,United States,1.0,Energy
+Zscaler,SF Bay Area,Security,177.0,0.03,2023-03-02,United States,1.0,Industrial
+Fittr,Pune,Fitness,30.0,0.11,2023-03-02,India,0.0,Consumer_Discretionary
+CNET,SF Bay Area,Media,12.0,0.1,2023-03-02,United States,0.0,Communication
+Thoughtworks,Chicago,Other,500.0,0.04,2023-03-01,United States,1.0,Other
+iFood,Sao Paulo,Food,355.0,0.06,2023-03-01,Brazil,1.0,Consumer_Staples
+Waymo,SF Bay Area,Transportation,209.0,0.08,2023-03-01,United States,1.0,Energy
+PayFit,Paris,HR,200.0,0.2,2023-03-01,France,1.0,Industrial
+Sonder,SF Bay Area,Travel,100.0,0.14,2023-03-01,United States,1.0,Consumer_Discretionary
+Eventbrite,SF Bay Area,Consumer,80.0,0.08,2023-02-28,United States,1.0,Consumer_Discretionary
+Cerebral,SF Bay Area,Healthcare,285.0,0.15,2023-02-27,United States,1.0,Healthcare
+Amount,Chicago,Finance,130.0,0.25,2023-02-27,United States,1.0,Financial
+Palantir,Denver,Data,75.0,0.02,2023-02-27,United States,1.0,Info_Tech
+Outreach,Seattle,Sales,70.0,0.07,2023-02-27,United States,1.0,Industrial
+Stytch,SF Bay Area,Security,19.0,0.25,2023-02-27,United States,0.0,Industrial
+Twitter,SF Bay Area,Consumer,200.0,0.1,2023-02-25,United States,1.0,Consumer_Discretionary
+Ericsson,Stockholm,Other,8500.0,0.08,2023-02-24,Sweden,1.0,Other
+Merative,Ann Arbor,Healthcare,200.0,0.1,2023-02-23,United States,1.0,Healthcare
+OneFootball,Berlin,Marketing,150.0,0.32,2023-02-23,Germany,1.0,Industrial
+The Iconic,Sydney,Retail,69.0,0.06,2023-02-23,Australia,1.0,Consumer_Staples
+Synamedia,London,Media,200.0,0.12,2023-02-22,United Kingdom,1.0,Communication
+Green Labs,Seoul,Food,350.0,0.7,2023-02-21,South Korea,1.0,Consumer_Staples
+Polygon,Bengaluru,Crypto,100.0,0.2,2023-02-21,India,1.0,Financial
+MyGate,Bengaluru,Other,200.0,0.3,2023-02-20,India,1.0,Other
+Fireblocks,New York City,Crypto,30.0,0.05,2023-02-20,United States,0.0,Financial
+Kinde,Sydney,Other,8.0,0.28,2023-02-20,Australia,0.0,Other
+Micron,Boise,Hardware,2400.0,0.05,2023-02-17,United States,1.0,Info_Tech
+Chipper Cash,SF Bay Area,Finance,100.0,0.33,2023-02-17,United States,1.0,Financial
+DocuSign,SF Bay Area,Sales,680.0,0.1,2023-02-16,United States,1.0,Industrial
+Pico Interactive,SF Bay Area,Other,400.0,0.2,2023-02-16,United States,1.0,Other
+The RealReal,SF Bay Area,Retail,230.0,0.07,2023-02-16,United States,1.0,Consumer_Staples
+Smartsheet,Seattle,Other,85.0,0.03,2023-02-16,United States,1.0,Other
+Wix,Tel Aviv,Marketing,370.0,0.06,2023-02-15,Israel,1.0,Industrial
+ServiceTitan,Los Angeles,Sales,221.0,0.08,2023-02-15,United States,1.0,Industrial
+Neon,Sao Paulo,Finance,210.0,0.09,2023-02-15,Brazil,1.0,Financial
+DigitalOcean,New York City,Infrastructure,200.0,0.11,2023-02-15,United States,1.0,Industrial
+Sprinklr,New York City,Support,100.0,0.04,2023-02-15,United States,1.0,Info_Tech
+CommerceHub,Albany,Retail,371.0,0.31,2023-02-14,United States,1.0,Consumer_Staples
+Twilio,SF Bay Area,Other,1500.0,0.17,2023-02-13,United States,1.0,Other
+Electric,New York City,Other,141.0,0.25,2023-02-13,United States,1.0,Other
+EMX Digital,New York City,Marketing,100.0,1.0,2023-02-13,United States,1.0,Industrial
+iRobot,Boston,Consumer,85.0,0.07,2023-02-13,United States,1.0,Consumer_Discretionary
+Moladin,Jakarta,Transportation,360.0,0.11,2023-02-12,Indonesia,1.0,Energy
+TripleLift,New York City,Marketing,100.0,0.2,2023-02-10,United States,1.0,Industrial
+Titan Medical,Toronto,Healthcare,48.0,0.72,2023-02-10,Canada,0.0,Healthcare
+Yahoo,SF Bay Area,Consumer,1600.0,0.2,2023-02-09,United States,1.0,Consumer_Discretionary
+Misfits Market,Philadelphia,Food,649.0,0.33,2023-02-09,United States,1.0,Consumer_Staples
+Deliveroo,London,Food,350.0,0.09,2023-02-09,United Kingdom,1.0,Consumer_Staples
+Olive AI,Columbus,Healthcare,215.0,0.35,2023-02-09,United States,1.0,Healthcare
+Oportun,SF Bay Area,Finance,155.0,0.1,2023-02-09,United States,1.0,Financial
+GitLab,SF Bay Area,Product,130.0,0.07,2023-02-09,United States,1.0,Materials
+Bark,New York City,Retail,126.0,0.12,2023-02-09,United States,1.0,Consumer_Staples
+Nomad Health,New York City,Healthcare,119.0,0.17,2023-02-09,United States,1.0,Healthcare
+Veriff,Tallinn,Security,66.0,0.12,2023-02-09,Estonia,1.0,Industrial
+REE Automotive,Tel Aviv,Transportation,31.0,0.11,2023-02-09,Israel,0.0,Energy
+GoDaddy,Phoenix,Marketing,530.0,0.08,2023-02-08,United States,1.0,Industrial
+Affirm,SF Bay Area,Finance,500.0,0.19,2023-02-08,United States,1.0,Financial
+Gusto,SF Bay Area,HR,126.0,0.05,2023-02-08,United States,1.0,Industrial
+Gong,SF Bay Area,Sales,80.0,0.07,2023-02-08,United States,1.0,Industrial
+Beam Benefits,Columbus,Healthcare,31.0,0.08,2023-02-08,United States,0.0,Healthcare
+Equitybee,SF Bay Area,Finance,24.0,0.25,2023-02-08,United States,0.0,Financial
+Zoom,SF Bay Area,Other,1300.0,0.15,2023-02-07,United States,1.0,Other
+eBay,SF Bay Area,Retail,500.0,0.04,2023-02-07,United States,1.0,Consumer_Staples
+SecureWorks,Atlanta,Security,212.0,0.09,2023-02-07,United States,1.0,Industrial
+Salesloft,Atlanta,Sales,100.0,0.1,2023-02-07,United States,1.0,Industrial
+Openpay,Melbourne,Finance,83.0,1.0,2023-02-07,Australia,1.0,Financial
+LearnUpon,Dublin,Education,27.0,0.09,2023-02-07,Ireland,0.0,Consumer_Discretionary
+Dell,Austin,Hardware,6650.0,0.05,2023-02-06,United States,1.0,Info_Tech
+Loggi,Sao Paulo,Logistics,300.0,0.07,2023-02-06,Brazil,1.0,Industrial
+Pocket Aces,Mumbai,Media,50.0,0.25,2023-02-06,India,1.0,Communication
+Lightico,Tel Aviv,Finance,20.0,0.25,2023-02-05,Israel,0.0,Financial
+Eightfold AI,SF Bay Area,HR,90.0,0.15,2023-02-03,United States,1.0,Industrial
+Protocol Labs,SF Bay Area,Crypto,89.0,0.2,2023-02-03,United States,1.0,Financial
+Okta,SF Bay Area,Security,300.0,0.05,2023-02-02,United States,1.0,Industrial
+Autodesk,SF Bay Area,Other,250.0,0.02,2023-02-02,United States,1.0,Other
+NCC Group,Manchester,Security,125.0,0.07,2023-02-02,United Kingdom,1.0,Industrial
+Miro,SF Bay Area,Other,119.0,0.07,2023-02-02,United States,1.0,Other
+Highspot,Seattle,Sales,100.0,0.1,2023-02-02,United States,1.0,Industrial
+Splunk,SF Bay Area,Data,325.0,0.04,2023-02-01,United States,1.0,Info_Tech
+DraftKings,Boston,Consumer,140.0,0.04,2023-02-01,United States,1.0,Consumer_Discretionary
+Workato,SF Bay Area,Other,90.0,0.1,2023-02-01,United States,1.0,Other
+VerticalScope,Toronto,Media,60.0,0.22,2023-02-01,Canada,1.0,Communication
+Wheel,Austin,Healthcare,56.0,0.28,2023-02-01,United States,1.0,Healthcare
+Chainalysis,New York City,Crypto,44.0,0.05,2023-02-01,United States,0.0,Financial
+Appgate,Miami,Security,34.0,0.08,2023-02-01,United States,0.0,Industrial
+Exterro,Portland,Legal,24.0,0.03,2023-02-01,United States,0.0,Industrial
+TheSkimm,New York City,Media,17.0,0.1,2023-02-01,United States,0.0,Communication
+PayPal,SF Bay Area,Finance,2000.0,0.07,2023-01-31,United States,1.0,Financial
+NetApp,SF Bay Area,Data,960.0,0.08,2023-01-31,United States,1.0,Info_Tech
+Workday,SF Bay Area,HR,525.0,0.03,2023-01-31,United States,1.0,Industrial
+HubSpot,Boston,Marketing,500.0,0.07,2023-01-31,United States,1.0,Industrial
+Upstart,SF Bay Area,Finance,365.0,0.2,2023-01-31,United States,1.0,Financial
+Software AG,Frankfurt,Data,200.0,0.04,2023-01-31,Germany,1.0,Info_Tech
+Wish,SF Bay Area,Retail,150.0,0.17,2023-01-31,United States,1.0,Consumer_Staples
+Tilting Point,New York City,Consumer,60.0,0.14,2023-01-31,United States,1.0,Consumer_Discretionary
+AU10TIX,Tel Aviv,Security,19.0,0.09,2023-01-31,Israel,0.0,Industrial
+Philips,Amsterdam,Healthcare,6000.0,0.13,2023-01-30,Netherlands,1.0,Healthcare
+OLX Group,Amsterdam,Marketing,1500.0,0.15,2023-01-30,Netherlands,1.0,Industrial
+Arrival,London,Transportation,800.0,0.5,2023-01-30,United Kingdom,1.0,Energy
+Glovo,Barcelona,Food,250.0,0.06,2023-01-30,Spain,1.0,Consumer_Staples
+Delivery Hero,Berlin,Food,156.0,0.04,2023-01-30,Germany,1.0,Consumer_Staples
+Impossible Foods copy,SF Bay Area,Food,140.0,0.2,2023-01-30,United States,1.0,Consumer_Staples
+Chrono24,Karlsruhe,Retail,65.0,0.13,2023-01-30,Germany,1.0,Consumer_Staples
+Me Poupe,Sao Paulo,Finance,60.0,0.5,2023-01-28,Brazil,1.0,Financial
+SSense,Montreal,Retail,138.0,0.07,2023-01-27,Canada,1.0,Consumer_Staples
+DealShare,Bengaluru,Retail,100.0,0.06,2023-01-27,India,1.0,Consumer_Staples
+Matrixport,Singapore,Crypto,29.0,0.1,2023-01-27,Singapore,0.0,Financial
+Shakepay,Montreal,Crypto,21.0,0.25,2023-01-27,Canada,0.0,Financial
+#Paid,Toronto,Marketing,19.0,0.17,2023-01-27,Canada,0.0,Industrial
+SAP,Walldorf,Other,3000.0,0.03,2023-01-26,Germany,1.0,Other
+Confluent,SF Bay Area,Data,221.0,0.08,2023-01-26,United States,1.0,Info_Tech
+IBM,New York City,Hardware,3900.0,0.02,2023-01-25,United States,1.0,Info_Tech
+Lam Research,SF Bay Area,Hardware,1300.0,0.07,2023-01-25,United States,1.0,Info_Tech
+Luno,London,Crypto,330.0,0.35,2023-01-25,United Kingdom,1.0,Financial
+Clear Capital,Reno,Real Estate,250.0,0.25,2023-01-25,United States,1.0,Real_Estate
+Guardant Health,SF Bay Area,Healthcare,130.0,0.07,2023-01-25,United States,1.0,Healthcare
+SirionLabs,Seattle,Legal,130.0,0.15,2023-01-25,United States,1.0,Industrial
+Tier Mobility,Berlin,Transportation,80.0,0.07,2023-01-25,Germany,1.0,Energy
+Vacasa,Portland,Travel,1300.0,0.17,2023-01-24,United States,1.0,Consumer_Discretionary
+Innovaccer,SF Bay Area,Healthcare,245.0,0.15,2023-01-24,United States,1.0,Healthcare
+Bolt,SF Bay Area,Finance,50.0,0.1,2023-01-24,United States,1.0,Financial
+PartnerStack,Toronto,Sales,40.0,0.2,2023-01-24,Canada,0.0,Industrial
+Gitpod,Kiel,Product,21.0,0.28,2023-01-24,Germany,0.0,Materials
+Venngage,Toronto,Marketing,11.0,0.2,2023-01-24,Canada,0.0,Industrial
+Spotify,Stockholm,Media,600.0,0.06,2023-01-23,Sweden,1.0,Communication
+Uber Freight,SF Bay Area,Logistics,150.0,0.03,2023-01-23,United States,1.0,Industrial
+Innovid,New York City,Marketing,40.0,0.1,2023-01-23,United States,0.0,Industrial
+Ermetic,SF Bay Area,Security,30.0,0.17,2023-01-23,United States,0.0,Industrial
+Namogoo,Tel Aviv,Marketing,20.0,0.15,2023-01-23,United States,0.0,Industrial
+Google,SF Bay Area,Consumer,12000.0,0.06,2023-01-20,United States,1.0,Consumer_Discretionary
+Wayfair,Boston,Retail,1750.0,0.1,2023-01-20,United States,1.0,Consumer_Staples
+Swiggy,Bengaluru,Food,380.0,0.06,2023-01-20,India,1.0,Consumer_Staples
+MediBuddy,Bengaluru,Healthcare,200.0,0.08,2023-01-20,India,1.0,Healthcare
+Vox Media,Washington D.C.,Media,130.0,0.07,2023-01-20,United States,1.0,Communication
+Enjoei,Sao Paulo,Retail,31.0,0.1,2023-01-20,Brazil,0.0,Consumer_Staples
+Citrine Informatics,SF Bay Area,Data,22.0,0.27,2023-01-20,United States,0.0,Info_Tech
+Hubilo,SF Bay Area,Other,115.0,0.35,2023-01-19,United States,1.0,Other
+Saks.com,New York City,Retail,100.0,0.05,2023-01-19,United States,1.0,Consumer_Staples
+CS Disco,Austin,Legal,62.0,0.09,2023-01-19,United States,1.0,Industrial
+Microsoft,Seattle,Other,10000.0,0.05,2023-01-18,United States,1.0,Other
+Sophos,Oxford,Security,450.0,0.1,2023-01-18,United States,1.0,Industrial
+Teladoc Health,New York City,Healthcare,300.0,0.06,2023-01-18,United States,1.0,Healthcare
+Vroom,New York City,Transportation,275.0,0.2,2023-01-18,United States,1.0,Energy
+8x8,SF Bay Area,Support,155.0,0.07,2023-01-18,United States,1.0,Info_Tech
+Pagaya,New York City,Finance,140.0,0.2,2023-01-18,United States,1.0,Financial
+Benevity,Calgary,Other,137.0,0.14,2023-01-18,Canada,1.0,Other
+Inspirato,Denver,Travel,109.0,0.12,2023-01-18,United States,1.0,Consumer_Discretionary
+Jumpcloud,Boulder,Security,100.0,0.12,2023-01-18,United States,1.0,Industrial
+nCino,Wilmington,Finance,100.0,0.07,2023-01-18,United States,1.0,Financial
+Starry,Boston,Other,100.0,0.24,2023-01-18,United States,1.0,Other
+Hootsuite,Vancouver,Marketing,70.0,0.07,2023-01-18,Canada,1.0,Industrial
+Clue,Berlin,Healthcare,31.0,0.31,2023-01-18,Germany,0.0,Healthcare
+Addepar,SF Bay Area,Finance,20.0,0.03,2023-01-18,United States,0.0,Financial
+Lightspeed Commerce,Montreal,Retail,300.0,0.1,2023-01-17,Canada,1.0,Consumer_Staples
+Unity,SF Bay Area,Other,284.0,0.03,2023-01-17,United States,1.0,Other
+Britishvolt,London,Transportation,206.0,1.0,2023-01-17,United Kingdom,1.0,Energy
+Exotel,Bengaluru,Support,142.0,0.15,2023-01-17,India,1.0,Info_Tech
+Unico,Sao Paulo,Other,110.0,0.1,2023-01-17,Brazil,1.0,Other
+American Robotics,Boston,Other,50.0,0.65,2023-01-17,United States,1.0,Other
+PagBank,Sao Paulo,Finance,500.0,0.07,2023-01-16,Brazil,1.0,Financial
+ShareChat,Bengaluru,Consumer,500.0,0.2,2023-01-16,India,1.0,Consumer_Discretionary
+ClearCo,Toronto,Finance,50.0,0.3,2023-01-16,Canada,1.0,Financial
+Snappy,New York City,Marketing,100.0,0.3,2023-01-15,United States,1.0,Industrial
+BharatAgri,Mumbai,Food,40.0,0.43,2023-01-15,India,0.0,Consumer_Staples
+Bonterra ,Austin,Other,140.0,0.1,2023-01-13,United States,1.0,Other
+Lending Club,SF Bay Area,Finance,225.0,0.14,2023-01-12,United States,1.0,Financial
+SmartNews,Tokyo,Media,120.0,0.4,2023-01-12,United States,1.0,Communication
+Pier,Sao Paulo,Finance,111.0,0.39,2023-01-12,Brazil,1.0,Financial
+Blockchain.com,London,Crypto,110.0,0.28,2023-01-12,United Kingdom,1.0,Financial
+Greenlight,Atlanta,Finance,104.0,0.21,2023-01-12,United States,1.0,Financial
+Definitive Healthcare,Boston,Healthcare,55.0,0.06,2023-01-12,United States,1.0,Healthcare
+Akili Labs,Baltimore,Healthcare,46.0,0.3,2023-01-12,United States,0.0,Healthcare
+Flexport,SF Bay Area,Logistics,640.0,0.2,2023-01-11,United States,1.0,Industrial
+Qualtrics,Salt Lake City,Other,270.0,0.05,2023-01-11,United States,1.0,Other
+Verily,SF Bay Area,Healthcare,250.0,0.15,2023-01-11,United States,1.0,Healthcare
+Tipalti,SF Bay Area,Finance,123.0,0.11,2023-01-11,United States,1.0,Financial
+Jumio,SF Bay Area,Security,100.0,0.06,2023-01-11,United States,1.0,Industrial
+Intrinsic,SF Bay Area,Other,40.0,0.2,2023-01-11,United States,0.0,Other
+Coinbase,SF Bay Area,Crypto,950.0,0.2,2023-01-10,United States,1.0,Financial
+Informatica,SF Bay Area,Data,450.0,0.07,2023-01-10,United States,1.0,Info_Tech
+Blend,SF Bay Area,Finance,340.0,0.28,2023-01-10,United States,1.0,Financial
+ConsenSys,New York City,Crypto,100.0,0.11,2023-01-10,United States,1.0,Financial
+ForeScout,SF Bay Area,Security,100.0,0.1,2023-01-10,United States,1.0,Industrial
+Thinkific,Vancouver,Education,76.0,0.19,2023-01-10,Canada,1.0,Consumer_Discretionary
+Parler,Nashville,Consumer,60.0,0.75,2023-01-10,United States,1.0,Consumer_Discretionary
+GoBolt,Toronto,Logistics,55.0,0.05,2023-01-10,Canada,1.0,Industrial
+Relevel,Bengaluru,HR,40.0,0.2,2023-01-10,India,0.0,Industrial
+StreamElements,Tel Aviv,Media,40.0,0.2,2023-01-10,Israel,0.0,Communication
+Fate Therapeutics,San Diego,Healthcare,315.0,0.5700000000000001,2023-01-09,United States,1.0,Healthcare
+Minute Media,London,Media,50.0,0.1,2023-01-08,United Kingdom,1.0,Communication
+WalkMe,SF Bay Area,Other,43.0,0.03,2023-01-08,United States,0.0,Other
+Huobi,Beijing,Crypto,275.0,0.2,2023-01-06,China,1.0,Financial
+Bounce,Bengaluru,Transportation,40.0,0.05,2023-01-06,India,0.0,Energy
+SoundHound,SF Bay Area,Other,200.0,0.5,2023-01-05,United States,1.0,Other
+Socure,Reno,Finance,104.0,0.19,2023-01-05,United States,1.0,Financial
+Genesis,New York City,Crypto,60.0,0.3,2023-01-05,United States,1.0,Financial
+Moglix,Singapore,Retail,40.0,0.02,2023-01-05,Singapore,0.0,Consumer_Staples
+Everlane,SF Bay Area,Retail,30.0,0.17,2023-01-05,United States,0.0,Consumer_Staples
+Pecan AI,Tel Aviv,Data,30.0,0.25,2023-01-05,Israel,0.0,Info_Tech
+Personetics,New York City,Support,30.0,0.08,2023-01-05,United States,0.0,Info_Tech
+Twine Solutions ,Tel Aviv,Hardware,30.0,0.33,2023-01-05,Israel,0.0,Info_Tech
+UpScalio,Gurugram,Retail,25.0,0.15,2023-01-05,India,0.0,Consumer_Staples
+Amazon,Seattle,Retail,8000.0,0.02,2023-01-04,United States,1.0,Consumer_Staples
+Salesforce,SF Bay Area,Sales,8000.0,0.1,2023-01-04,United States,1.0,Industrial
+Astronomer,Cincinnati,Data,76.0,0.2,2023-01-04,United States,1.0,Info_Tech
+Kaltura,New York City,Media,75.0,0.11,2023-01-04,United States,1.0,Communication
+Augury,New York City,Manufacturing,20.0,0.05,2023-01-04,United States,0.0,Consumer_Discretionary
+Pegasystems,Boston,HR,245.0,0.04,2023-01-03,United States,1.0,Industrial
+Uniphore,SF Bay Area,Support,76.0,0.1,2023-01-03,United States,1.0,Info_Tech
+Harappa,New Delhi,Education,60.0,0.3,2023-01-03,India,1.0,Consumer_Discretionary
+Amdocs,St. Louis,Support,700.0,0.03,2023-01-02,United States,1.0,Info_Tech
+Micron,Boise,Hardware,4800.0,0.1,2023-01-01,United States,1.0,Info_Tech
+PayU,Amsterdam,Finance,150.0,0.06,2022-12-26,Netherlands,1.0,Financial
+Willow,Sydney,Real Estate,99.0,0.22,2022-12-23,Australia,1.0,Real_Estate
+Back Market,Paris,Retail,93.0,0.13,2022-12-23,France,1.0,Consumer_Staples
+TuSimple,San Diego,Transportation,350.0,0.25,2022-12-21,United States,1.0,Energy
+Chope,Singapore,Food,65.0,0.24,2022-12-20,Singapore,1.0,Consumer_Staples
+Briza,Toronto,Finance,26.0,0.4,2022-12-20,Canada,0.0,Financial
+Homebot,Denver,Real Estate,18.0,0.13,2022-12-19,United States,0.0,Real_Estate
+Tomorrow,Hamburg,Finance,30.0,0.25,2022-12-16,Germany,0.0,Financial
+Revelate,Montreal,Data,24.0,0.3,2022-12-16,Canada,0.0,Info_Tech
+BigCommerce,Austin,Retail,180.0,0.13,2022-12-15,United States,1.0,Consumer_Staples
+Freshworks,SF Bay Area,Support,90.0,0.02,2022-12-15,United States,1.0,Info_Tech
+LeafLink,New York City,Other,80.0,0.31,2022-12-15,United States,1.0,Other
+Workmotion,Berlin,HR,60.0,0.2,2022-12-15,United States,1.0,Industrial
+JD.ID,Jakarta,Retail,200.0,0.3,2022-12-14,Indonesia,1.0,Consumer_Staples
+Headspace,Los Angeles,Healthcare,50.0,0.04,2022-12-14,United States,1.0,Healthcare
+ChowNow,Los Angeles,Food,40.0,0.1,2022-12-14,United States,0.0,Consumer_Staples
+Thumbtack,SF Bay Area,Consumer,160.0,0.14,2022-12-13,United States,1.0,Consumer_Discretionary
+Edgio,Phoenix,Infrastructure,95.0,0.1,2022-12-13,United States,1.0,Industrial
+Komodo Health,SF Bay Area,Healthcare,78.0,0.09,2022-12-13,United States,1.0,Healthcare
+Viant,Los Angeles,Marketing,46.0,0.13,2022-12-13,United States,0.0,Industrial
+Pluralsight,Salt Lake City,Education,400.0,0.2,2022-12-12,United States,1.0,Consumer_Discretionary
+Outschool,SF Bay Area,Education,43.0,0.25,2022-12-10,United States,0.0,Consumer_Discretionary
+Xentral,Munich,Product,20.0,0.1,2022-12-10,Germany,0.0,Materials
+Playtika,Tel Aviv,Consumer,600.0,0.15,2022-12-09,Israel,1.0,Consumer_Discretionary
+Share Now,Berlin,Transportation,150.0,0.36,2022-12-09,Germany,1.0,Energy
+Alice,Sao Paulo,Healthcare,113.0,0.16,2022-12-09,Brazil,1.0,Healthcare
+Primer,London,Finance,85.0,0.33,2022-12-09,United Kingdom,1.0,Financial
+OneFootball,Berlin,Marketing,62.0,0.115,2022-12-09,Germany,1.0,Industrial
+C2FO,Kansas City,Finance,20.0,0.02,2022-12-09,United States,0.0,Financial
+Airtable,SF Bay Area,Product,254.0,0.2,2022-12-08,United States,1.0,Materials
+Swiggy,Bengaluru,Food,250.0,0.03,2022-12-08,India,1.0,Consumer_Staples
+Glints,Singapore,HR,198.0,0.18,2022-12-08,Singapore,1.0,Industrial
+Buser,Sao Paulo,Transportation,160.0,0.3,2022-12-08,Brazil,1.0,Energy
+BlackLine,Los Angeles,Finance,95.0,0.05,2022-12-08,United States,1.0,Financial
+Otonomo,Tel Aviv,Transportation,80.0,0.5,2022-12-08,Israel,1.0,Energy
+TechTarget,Boston,Marketing,60.0,0.05,2022-12-08,United States,1.0,Industrial
+CyCognito,SF Bay Area,Security,30.0,0.15,2022-12-08,United States,0.0,Industrial
+Armis,SF Bay Area,Security,25.0,0.04,2022-12-08,United States,0.0,Industrial
+Loft,Sao Paulo,Real Estate,312.0,0.12,2022-12-07,Brazil,1.0,Real_Estate
+Plaid,SF Bay Area,Finance,260.0,0.2,2022-12-07,United States,1.0,Financial
+Motive,SF Bay Area,Transportation,237.0,0.06,2022-12-07,United States,1.0,Energy
+Relativity,Chicago,Legal,150.0,0.1,2022-12-07,United States,1.0,Industrial
+Voi,Stockholm,Transportation,130.0,0.13,2022-12-07,United States,1.0,Energy
+Integral Ad Science,New York City,Marketing,120.0,0.13,2022-12-07,United States,1.0,Industrial
+Houzz,SF Bay Area,Consumer,95.0,0.08,2022-12-07,United States,1.0,Consumer_Discretionary
+Grover,Berlin,Retail,40.0,0.1,2022-12-07,United States,0.0,Consumer_Staples
+Lev,New York City,Real Estate,30.0,0.3,2022-12-07,United States,0.0,Real_Estate
+Lithic,New York City,Finance,27.0,0.18,2022-12-07,United States,0.0,Financial
+Doma,SF Bay Area,Finance,515.0,0.4,2022-12-06,United States,1.0,Financial
+BuzzFeed,New York City,Media,180.0,0.12,2022-12-06,United States,1.0,Communication
+Weedmaps,Los Angeles,Other,175.0,0.25,2022-12-06,United States,1.0,Other
+Chipper Cash,SF Bay Area,Finance,50.0,0.125,2022-12-06,United States,1.0,Financial
+Stash,New York City,Finance,32.0,0.08,2022-12-06,United States,0.0,Financial
+Perimeter 81,Tel Aviv,Security,20.0,0.08,2022-12-06,Israel,0.0,Industrial
+Koinly,London,Crypto,16.0,0.14,2022-12-06,United Kingdom,0.0,Financial
+Bridgit,Waterloo,Construction,13.0,0.13,2022-12-06,Canada,0.0,Consumer_Discretionary
+Swyftx,Brisbane,Crypto,90.0,0.4,2022-12-05,Australia,1.0,Financial
+Aqua Security,Boston,Security,65.0,0.1,2022-12-05,United States,1.0,Industrial
+DataRails,Tel Aviv,Finance,30.0,0.18,2022-12-05,Israel,0.0,Financial
+Cognyte,Tel Aviv,Security,100.0,0.05,2022-12-02,Israel,1.0,Industrial
+Polly,Burlington,Finance,47.0,0.15,2022-12-02,United States,0.0,Financial
+Carousell,Singapore,Retail,110.0,0.1,2022-12-01,Singapore,1.0,Consumer_Staples
+Bizzabo,New York City,Marketing,100.0,0.37,2022-12-01,United States,1.0,Industrial
+BloomTech,SF Bay Area,Education,88.0,0.5,2022-12-01,United States,1.0,Consumer_Discretionary
+Netlify,SF Bay Area,Product,48.0,0.16,2022-12-01,United States,0.0,Materials
+Springbig,Miami,Sales,37.0,0.23,2022-12-01,United States,0.0,Industrial
+DoorDash,SF Bay Area,Food,1250.0,0.06,2022-11-30,United States,1.0,Consumer_Staples
+Kraken,SF Bay Area,Crypto,1100.0,0.3,2022-11-30,United States,1.0,Financial
+Happy Money,Los Angeles,Finance,158.0,0.34,2022-11-30,United States,1.0,Financial
+Ula,Jakarta,Retail,134.0,0.23,2022-11-30,Indonesia,1.0,Consumer_Staples
+Wonder,New York City,Food,130.0,0.07,2022-11-30,United States,1.0,Consumer_Staples
+Grin,Sacramento,Marketing,60.0,0.13,2022-11-30,United States,1.0,Industrial
+Ualá,Buenos Aires,Finance,53.0,0.03,2022-11-30,Argentina,1.0,Financial
+Teachmint,Bengaluru,Education,45.0,0.05,2022-11-30,India,0.0,Consumer_Discretionary
+Thread,London,Retail,30.0,0.5,2022-11-30,United Kingdom,0.0,Consumer_Staples
+Lyst,London,Retail,50.0,0.25,2022-11-29,United Kingdom,1.0,Consumer_Staples
+CoinJar,Melbourne,Crypto,10.0,0.2,2022-11-29,Australia,0.0,Financial
+Infarm,Berlin,Other,500.0,0.5,2022-11-28,Germany,1.0,Other
+Wildlife Studios,Sao Paulo,Consumer,300.0,0.2,2022-11-28,Brazil,1.0,Consumer_Discretionary
+Hirect,Bengaluru,Recruiting,200.0,0.4,2022-11-28,India,1.0,Industrial
+ApplyBoard,Waterloo,Education,90.0,0.06,2022-11-28,Canada,1.0,Consumer_Discretionary
+Ajaib,Jakarta,Finance,67.0,0.08,2022-11-28,Indonesia,1.0,Financial
+Candy Digital,New York City,Crypto,33.0,0.33,2022-11-28,United States,0.0,Financial
+ResearchGate,Berlin,Other,25.0,0.1,2022-11-28,Germany,0.0,Other
+VerSe Innovation,Bengaluru,Media,150.0,0.05,2022-11-25,India,1.0,Communication
+Carwow,London,Transportation,70.0,0.2,2022-11-25,United Kingdom,1.0,Energy
+Vendease,Lagos,Food,27.0,0.09,2022-11-25,Nigeria,0.0,Consumer_Staples
+Lemon,Buenos Aires,Crypto,100.0,0.38,2022-11-24,Argentina,1.0,Financial
+Quidax,Lagos,Crypto,20.0,0.2,2022-11-24,Nigeria,0.0,Financial
+SIRCLO,Jakarta,Retail,160.0,0.08,2022-11-22,Indonesia,1.0,Consumer_Staples
+Trax,Singapore,Retail,80.0,0.08,2022-11-22,Singapore,1.0,Consumer_Staples
+Jumia,Lagos,Retail,900.0,0.2,2022-11-21,Nigeria,1.0,Consumer_Staples
+Kitopi,Dubai,Food,93.0,0.1,2022-11-21,United States,1.0,Consumer_Staples
+Zomato,Gurugram,Food,100.0,0.04,2022-11-19,India,1.0,Consumer_Staples
+Carvana,Phoenix,Transportation,1500.0,0.08,2022-11-18,United States,1.0,Energy
+Nuro,SF Bay Area,Transportation,300.0,0.2,2022-11-18,United States,1.0,Energy
+Synthego,SF Bay Area,Healthcare,105.0,0.2,2022-11-18,United States,1.0,Healthcare
+Roku,SF Bay Area,Media,200.0,0.07,2022-11-17,United States,1.0,Communication
+Juni,Gothenburg,Finance,72.0,0.33,2022-11-17,Sweden,1.0,Financial
+Capitolis,New York City,Finance,37.0,0.25,2022-11-17,United States,0.0,Financial
+TealBook,Toronto,Other,34.0,0.19,2022-11-17,Canada,0.0,Other
+Koho,Toronto,Finance,15.0,0.04,2022-11-17,Canada,0.0,Financial
+&Open,Dublin,Marketing,9.0,0.09,2022-11-17,Ireland,0.0,Industrial
+Amazon,Seattle,Retail,10000.0,0.03,2022-11-16,United States,1.0,Consumer_Staples
+Cisco,SF Bay Area,Infrastructure,4100.0,0.05,2022-11-16,United States,1.0,Industrial
+Twiga,Nairobi,Food,211.0,0.21,2022-11-16,Kenya,1.0,Consumer_Staples
+Wayflyer,Dublin,Marketing,200.0,0.4,2022-11-16,Ireland,1.0,Industrial
+SimilarWeb,New York City,Other,120.0,0.1,2022-11-16,United States,1.0,Other
+Salsify,Boston,Retail,90.0,0.11,2022-11-16,United States,1.0,Consumer_Staples
+Lokalise,Dover,Other,76.0,0.23,2022-11-16,United States,1.0,Other
+Yotpo,New York City,Marketing,70.0,0.09,2022-11-16,United States,1.0,Industrial
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,2022-11-16,United States,1.0,Healthcare
+UiPath,New York City,Data,241.0,0.06,2022-11-15,United States,1.0,Info_Tech
+Asana,SF Bay Area,Other,180.0,0.09,2022-11-15,United States,1.0,Other
+OwnBackup,New York City,Security,170.0,0.17,2022-11-15,United States,1.0,Industrial
+Deliveroo Australia,Melbourne,Food,120.0,1.0,2022-11-15,Australia,1.0,Consumer_Staples
+Productboard,SF Bay Area,Product,100.0,0.2,2022-11-15,United States,1.0,Materials
+Protocol,SF Bay Area,Media,60.0,1.0,2022-11-15,United States,1.0,Communication
+Jimdo,Hamburg,Other,50.0,0.16,2022-11-15,Germany,1.0,Other
+Viber,Luxembourg,Consumer,45.0,0.08,2022-11-15,Luxembourg,0.0,Consumer_Discretionary
+CaptivateIQ,SF Bay Area,Sales,31.0,0.1,2022-11-15,United States,0.0,Industrial
+Illumina,San Diego,Healthcare,500.0,0.05,2022-11-14,United States,1.0,Healthcare
+iFit,Logan,Fitness,300.0,0.2,2022-11-14,United States,1.0,Consumer_Discretionary
+Ribbon,New York City,Real Estate,170.0,0.85,2022-11-14,United States,1.0,Real_Estate
+Pipedrive,Tallinn,Sales,143.0,0.15,2022-11-14,Estonia,1.0,Industrial
+Intercom,SF Bay Area,Support,124.0,0.13,2022-11-14,United States,1.0,Info_Tech
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,2022-11-14,United States,1.0,Healthcare
+Cloudinary,SF Bay Area,Media,40.0,0.08,2022-11-14,United States,0.0,Communication
+Veev,SF Bay Area,Real Estate,100.0,0.3,2022-11-11,United States,1.0,Real_Estate
+Forto,Berlin,Logistics,60.0,0.08,2022-11-11,United States,1.0,Industrial
+GoTo Group,Jakarta,Transportation,1300.0,0.12,2022-11-10,Indonesia,1.0,Energy
+Juul,SF Bay Area,Consumer,400.0,0.3,2022-11-10,United States,1.0,Consumer_Discretionary
+Blend,SF Bay Area,Finance,100.0,0.06,2022-11-10,United States,1.0,Financial
+InfluxData,SF Bay Area,Data,65.0,0.27,2022-11-10,United States,1.0,Info_Tech
+SoundHound,SF Bay Area,Other,45.0,0.1,2022-11-10,United States,0.0,Other
+Ocavu,Lehi,Crypto,20.0,0.48,2022-11-10,United States,0.0,Financial
+Meta,SF Bay Area,Consumer,11000.0,0.13,2022-11-09,United States,1.0,Consumer_Discretionary
+Redfin,Seattle,Real Estate,862.0,0.13,2022-11-09,United States,1.0,Real_Estate
+Flyhomes,Seattle,Real Estate,300.0,0.4,2022-11-09,United States,1.0,Real_Estate
+AvantStay,Los Angeles,Travel,144.0,0.22,2022-11-09,United States,1.0,Consumer_Discretionary
+Root Insurance,Columbus,Finance,137.0,0.2,2022-11-09,United States,1.0,Financial
+Liftoff,SF Bay Area,Marketing,130.0,0.15,2022-11-09,United States,1.0,Industrial
+Plum,Bengaluru,Healthcare,36.0,0.1,2022-11-09,India,0.0,Healthcare
+Kabam,SF Bay Area,Consumer,35.0,0.07,2022-11-09,United States,0.0,Consumer_Discretionary
+Namogoo,Tel Aviv,Marketing,25.0,0.15,2022-11-09,United States,0.0,Industrial
+Repertoire Immune Medicines,Boston,Healthcare,65.0,0.5,2022-11-08,United States,1.0,Healthcare
+Salesforce,SF Bay Area,Sales,1000.0,0.01,2022-11-07,United States,1.0,Industrial
+Unacademy,Bengaluru,Education,350.0,0.1,2022-11-07,India,1.0,Consumer_Discretionary
+Zendesk,SF Bay Area,Support,350.0,0.05,2022-11-07,United States,1.0,Info_Tech
+Dock,Sao Paulo,Finance,190.0,0.12,2022-11-07,Brazil,1.0,Financial
+Varonis,New York City,Security,110.0,0.05,2022-11-06,United States,1.0,Industrial
+Twitter,SF Bay Area,Consumer,3700.0,0.5,2022-11-04,United States,1.0,Consumer_Discretionary
+Planetly,Berlin,Other,200.0,1.0,2022-11-04,Germany,1.0,Other
+KoinWorks,Jakarta,Finance,70.0,0.08,2022-11-04,Indonesia,1.0,Financial
+Exodus,Nebraska City,Crypto,59.0,0.22,2022-11-04,United States,1.0,Financial
+Stripe,SF Bay Area,Finance,1000.0,0.14,2022-11-03,United States,1.0,Financial
+Lyft,SF Bay Area,Transportation,700.0,0.13,2022-11-03,United States,1.0,Energy
+Pleo,Copenhagen,Finance,150.0,0.15,2022-11-03,United States,1.0,Financial
+Shippo,SF Bay Area,Logistics,60.0,0.2,2022-11-03,United States,1.0,Industrial
+Opendoor,SF Bay Area,Real Estate,550.0,0.18,2022-11-02,United States,1.0,Real_Estate
+Chime,SF Bay Area,Finance,156.0,0.12,2022-11-02,United States,1.0,Financial
+Chargebee,SF Bay Area,Finance,142.0,0.1,2022-11-02,United States,1.0,Financial
+Dapper Labs,Vancouver,Crypto,134.0,0.22,2022-11-02,United States,1.0,Financial
+Checkmarx,Tel Aviv,Security,100.0,0.1,2022-11-02,Israel,1.0,Industrial
+Smava,Berlin,Finance,100.0,0.15,2022-11-02,Germany,1.0,Financial
+Iron Ox,SF Bay Area,Food,50.0,0.5,2022-11-02,United States,1.0,Consumer_Staples
+Digital Currency Gruop,Stamford,Crypto,10.0,0.13,2022-11-02,United States,0.0,Financial
+Upstart,SF Bay Area,Finance,140.0,0.07,2022-11-01,United States,1.0,Financial
+Gem,SF Bay Area,Recruiting,100.0,0.33,2022-11-01,United States,1.0,Industrial
+Oda,Oslo,Food,70.0,0.18,2022-11-01,Sweden,1.0,Consumer_Staples
+Oda,Oslo,Food,70.0,0.18,2022-11-01,Norway,1.0,Consumer_Staples
+Oda,Oslo,Food,70.0,0.06,2022-11-01,Norway,1.0,Consumer_Staples
+Hootsuite,Vancouver,Marketing,50.0,0.05,2022-11-01,Canada,1.0,Industrial
+Kry,Stockholm,Healthcare,300.0,0.1,2022-10-31,Sweden,1.0,Healthcare
+EquityZen,New York City,Finance,30.0,0.27,2022-10-31,United States,0.0,Financial
+Equitybee,SF Bay Area,Finance,25.0,0.2,2022-10-31,United States,0.0,Financial
+Fifth Season,Pittsburgh,Food,100.0,1.0,2022-10-28,United States,1.0,Consumer_Staples
+Advata,Seattle,Healthcare,32.0,0.21,2022-10-28,United States,0.0,Healthcare
+RenoRun,Montreal,Construction,210.0,0.43,2022-10-27,Canada,1.0,Consumer_Discretionary
+Recharge,Los Angeles,Finance,84.0,0.17,2022-10-27,United States,1.0,Financial
+Seagate,SF Bay Area,Hardware,3000.0,0.08,2022-10-26,United States,1.0,Info_Tech
+MindBody,San Luis Obispo,Fitness,400.0,0.15,2022-10-26,United States,1.0,Consumer_Discretionary
+Zillow,Seattle,Real Estate,300.0,0.05,2022-10-26,United States,1.0,Real_Estate
+Cybereason,Boston,Security,200.0,0.17,2022-10-26,United States,1.0,Industrial
+GoFundMe,SF Bay Area,Finance,94.0,0.12,2022-10-26,United States,1.0,Financial
+Fundbox,SF Bay Area,Finance,150.0,0.42,2022-10-25,United States,1.0,Financial
+Embroker,SF Bay Area,Finance,30.0,0.12,2022-10-25,United States,0.0,Financial
+Vee,Tel Aviv,HR,17.0,0.5,2022-10-25,Israel,0.0,Industrial
+Philips,Amsterdam,Healthcare,4000.0,0.05,2022-10-24,Netherlands,1.0,Healthcare
+Cerebral,SF Bay Area,Healthcare,400.0,0.2,2022-10-24,United States,1.0,Healthcare
+Snyk,Boston,Security,198.0,0.14,2022-10-24,United States,1.0,Industrial
+Unico,Sao Paulo,Other,50.0,0.04,2022-10-24,Brazil,1.0,Other
+OrCam,Jerusalem,Healthcare,62.0,0.16,2022-10-23,Israel,1.0,Healthcare
+Antidote Health,Tel Aviv,Healthcare,23.0,0.38,2022-10-23,Israel,0.0,Healthcare
+Khoros,Austin,Sales,120.0,0.1,2022-10-21,United States,1.0,Industrial
+F5,Seattle,Security,100.0,0.01,2022-10-21,United States,1.0,Industrial
+Elinvar,Berlin,Finance,43.0,0.33,2022-10-21,Germany,0.0,Financial
+Synapsica,New Delhi,Healthcare,30.0,0.3,2022-10-21,India,0.0,Healthcare
+Hotmart,Belo Horizonte,Marketing,227.0,0.12,2022-10-20,Brazil,1.0,Industrial
+Zeus Living,SF Bay Area,Real Estate,64.0,0.46,2022-10-20,United States,1.0,Real_Estate
+Loom,SF Bay Area,Product,23.0,0.11,2022-10-20,United States,0.0,Materials
+AtoB,SF Bay Area,Finance,32.0,0.3,2022-10-19,United States,0.0,Financial
+InfoSum,London,Security,20.0,0.12,2022-10-19,United Kingdom,0.0,Industrial
+Faire,SF Bay Area,Retail,84.0,0.07,2022-10-18,United States,1.0,Consumer_Staples
+Leafly,Seattle,Retail,56.0,0.21,2022-10-18,United States,1.0,Consumer_Staples
+Tiendanube,Buenos Aires,Marketing,50.0,0.05,2022-10-17,Argentina,1.0,Industrial
+Flipboard,SF Bay Area,Media,24.0,0.21,2022-10-16,United States,0.0,Communication
+Clear Capital,Reno,Real Estate,378.0,0.27,2022-10-14,United States,1.0,Real_Estate
+Beyond Meat,Los Angeles,Food,200.0,0.19,2022-10-14,United States,1.0,Consumer_Staples
+Playdots,New York City,Consumer,65.0,1.0,2022-10-13,United States,1.0,Consumer_Discretionary
+Byju's,Bengaluru,Education,2500.0,0.05,2022-10-12,India,1.0,Consumer_Discretionary
+6sense,SF Bay Area,Sales,150.0,0.1,2022-10-12,United States,1.0,Industrial
+FrontRow,Bengaluru,Education,130.0,0.75,2022-10-12,India,1.0,Consumer_Discretionary
+Noom,New York City,Healthcare,500.0,0.1,2022-10-11,United States,1.0,Healthcare
+Brex,SF Bay Area,Finance,136.0,0.11,2022-10-11,United States,1.0,Financial
+Pacaso,SF Bay Area,Real Estate,100.0,0.3,2022-10-11,United States,1.0,Real_Estate
+Udacity,SF Bay Area,Education,55.0,0.13,2022-10-11,United States,1.0,Consumer_Discretionary
+Linkfire,Copenhagen,Marketing,35.0,0.35,2022-10-11,Denmark,0.0,Industrial
+Momentive,SF Bay Area,Marketing,180.0,0.11,2022-10-10,United States,1.0,Industrial
+Pavilion Data,SF Bay Area,Infrastructure,96.0,0.96,2022-10-10,United States,1.0,Industrial
+Redesign Health,New York City,Healthcare,67.0,0.2,2022-10-10,United States,1.0,Healthcare
+BioMarin,SF Bay Area,Healthcare,120.0,0.04,2022-10-07,United States,1.0,Healthcare
+Crypto.com,Singapore,Crypto,2000.0,0.3,2022-10-06,Singapore,1.0,Financial
+Peloton,New York City,Fitness,500.0,0.12,2022-10-06,United States,1.0,Consumer_Discretionary
+Turnitin,SF Bay Area,Education,51.0,0.05,2022-10-06,United States,1.0,Consumer_Discretionary
+Impossible Foods,SF Bay Area,Food,50.0,0.06,2022-10-06,United States,1.0,Consumer_Staples
+Built In,Chicago,Recruiting,50.0,0.25,2022-10-05,United States,1.0,Industrial
+8x8,SF Bay Area,Support,200.0,0.09,2022-10-04,United States,1.0,Info_Tech
+Homie,Salt Lake City,Real Estate,40.0,0.13,2022-10-04,United States,0.0,Real_Estate
+WazirX,Mumbai,Crypto,60.0,0.4,2022-10-02,India,1.0,Financial
+Spin,SF Bay Area,Transportation,78.0,0.1,2022-09-30,United States,1.0,Energy
+Mux,SF Bay Area,Infrastructure,40.0,0.2,2022-09-29,United States,0.0,Industrial
+DocuSign,SF Bay Area,Sales,671.0,0.09,2022-09-28,United States,1.0,Industrial
+Divvy Homes,SF Bay Area,Real Estate,40.0,0.12,2022-09-27,United States,0.0,Real_Estate
+Moss,Berlin,Finance,70.0,0.15,2022-09-23,Germany,1.0,Financial
+Foxtrot,Chicago,Food,26.0,0.035,2022-09-23,United States,0.0,Consumer_Staples
+Truiloo,Vancouver,Security,24.0,0.05,2022-09-23,Canada,0.0,Industrial
+NYDIG,New York City,Crypto,110.0,0.33,2022-09-22,United States,1.0,Financial
+Kitty Hawk,SF Bay Area,Aerospace,100.0,1.0,2022-09-21,United States,1.0,Industrial
+Ada,Toronto,Support,78.0,0.16,2022-09-20,Canada,1.0,Info_Tech
+99,Sao Paulo,Transportation,75.0,0.02,2022-09-20,Brazil,1.0,Energy
+Vesalius Therapeutics,Boston,Healthcare,29.0,0.43,2022-09-19,United States,0.0,Healthcare
+Clear,Bengaluru,Finance,190.0,0.2,2022-09-16,India,1.0,Financial
+TrueLayer,London,Finance,40.0,0.1,2022-09-16,United States,0.0,Financial
+LivePerson,New York City,Support,193.0,0.11,2022-09-15,United States,1.0,Info_Tech
+Acast,Stockholm,Media,70.0,0.15,2022-09-15,Sweden,1.0,Communication
+WorkRamp,SF Bay Area,HR,35.0,0.2,2022-09-15,United States,0.0,Industrial
+Twilio,SF Bay Area,Other,800.0,0.11,2022-09-14,United States,1.0,Other
+Pitch,Berlin,Marketing,59.0,0.3,2022-09-14,Germany,1.0,Industrial
+Infarm,Berlin,Other,50.0,0.05,2022-09-14,Germany,1.0,Other
+Rubius,Boston,Healthcare,160.0,0.75,2022-09-13,United States,1.0,Healthcare
+Checkout.com,London,Finance,100.0,0.05,2022-09-13,United Kingdom,1.0,Financial
+Taboola,New York City,Marketing,100.0,0.06,2022-09-13,United States,1.0,Industrial
+Patreon,SF Bay Area,Media,80.0,0.17,2022-09-13,United States,1.0,Communication
+Compete,Tel Aviv,HR,11.0,0.28,2022-09-12,Israel,0.0,Industrial
+Pomelo Fashion,Bangkok,Retail,55.0,0.08,2022-09-08,Thailand,1.0,Consumer_Staples
+Simple Feast,Copenhagen,Food,150.0,1.0,2022-09-07,Denmark,1.0,Consumer_Staples
+Intercom,SF Bay Area,Support,49.0,0.05,2022-09-07,United States,0.0,Info_Tech
+Pendo,Raleigh,Product,45.0,0.05,2022-09-07,United States,0.0,Materials
+Demandbase,SF Bay Area,Sales,27.0,0.03,2022-09-07,United States,0.0,Industrial
+Brave Care,Portland,Healthcare,40.0,0.33,2022-09-06,United States,0.0,Healthcare
+Lawgeex,Tel Aviv,Legal,30.0,0.33,2022-09-06,Israel,0.0,Industrial
+Kuda,Lagos,Finance,23.0,0.05,2022-09-02,Nigeria,0.0,Financial
+2TM,Sao Paulo,Crypto,100.0,0.15,2022-09-01,Brazil,1.0,Financial
+Innovaccer,SF Bay Area,Healthcare,90.0,0.08,2022-09-01,United States,1.0,Healthcare
+Urban Sports Club,Berlin,Fitness,55.0,0.15,2022-09-01,Germany,1.0,Consumer_Discretionary
+Snap,Los Angeles,Consumer,1280.0,0.2,2022-08-31,United States,1.0,Consumer_Discretionary
+GoodRx,Los Angeles,Healthcare,140.0,0.16,2022-08-31,United States,1.0,Healthcare
+Smava,Berlin,Finance,100.0,0.1,2022-08-31,Germany,1.0,Financial
+Hippo Insurance,SF Bay Area,Finance,70.0,0.1,2022-08-31,United States,1.0,Financial
+TCR2,Boston,Healthcare,30.0,0.2,2022-08-31,United States,0.0,Healthcare
+Apartment List,SF Bay Area,Real Estate,29.0,0.1,2022-08-31,United States,0.0,Real_Estate
+Artnight,Berlin,Retail,26.0,0.36,2022-08-31,Germany,0.0,Consumer_Staples
+Immersive Labs,Bristol,Security,38.0,0.1,2022-08-30,United Kingdom,0.0,Industrial
+54gene,Washington D.C.,Healthcare,95.0,0.3,2022-08-29,United States,1.0,Healthcare
+Argyle,New York City,Finance,20.0,0.07,2022-08-26,United States,0.0,Financial
+Loja Integrada,Sao Paulo,Retail,25.0,0.1,2022-08-25,Brazil,0.0,Consumer_Staples
+Reali,SF Bay Area,Real Estate,140.0,1.0,2022-08-24,United States,1.0,Real_Estate
+Loop,Washington D.C.,Finance,15.0,0.2,2022-08-24,United States,0.0,Financial
+Tier Mobility,Berlin,Transportation,180.0,0.16,2022-08-23,Germany,1.0,Energy
+Packable,New York City,Retail,138.0,0.2,2022-08-23,United States,1.0,Consumer_Staples
+Q4,Toronto,Other,50.0,0.08,2022-08-23,Canada,1.0,Other
+Skedulo,SF Bay Area,HR,31.0,0.08,2022-08-23,United States,0.0,Industrial
+Plato,SF Bay Area,HR,29.0,0.5,2022-08-23,United States,0.0,Industrial
+NSO,Tel Aviv,Security,100.0,0.14,2022-08-21,Israel,1.0,Industrial
+Tufin,Boston,Security,55.0,0.1,2022-08-21,United States,1.0,Industrial
+Amperity,Seattle,Marketing,13.0,0.03,2022-08-20,United States,0.0,Industrial
+Wayfair,Boston,Retail,870.0,0.05,2022-08-19,United States,1.0,Consumer_Staples
+Hodlnaut,Singapore,Crypto,40.0,0.8,2022-08-19,Singapore,0.0,Financial
+New Relic,SF Bay Area,Infrastructure,110.0,0.05,2022-08-18,United States,1.0,Industrial
+Wheel,Austin,Healthcare,35.0,0.17,2022-08-18,United States,0.0,Healthcare
+Malwarebytes,SF Bay Area,Security,125.0,0.14,2022-08-17,United States,1.0,Industrial
+Fluke,Sao Paulo,Other,83.0,0.8200000000000001,2022-08-17,Brazil,1.0,Other
+Swyftx,Brisbane,Crypto,74.0,0.21,2022-08-17,Australia,1.0,Financial
+Genesis,New York City,Crypto,52.0,0.2,2022-08-17,United States,1.0,Financial
+AlayaCare,Montreal,Healthcare,80.0,0.14,2022-08-16,Canada,1.0,Healthcare
+Pliops,Tel Aviv,Data,12.0,0.09,2022-08-16,Israel,0.0,Info_Tech
+Woven,Indianapolis,HR,5.0,0.15,2022-08-16,United States,0.0,Industrial
+Sema4,Stamford,Healthcare,250.0,0.13,2022-08-15,United States,1.0,Healthcare
+Blend,SF Bay Area,Finance,220.0,0.12,2022-08-15,United States,1.0,Financial
+ContraFect,New York City,Healthcare,16.0,0.37,2022-08-15,United States,0.0,Healthcare
+Peloton,New York City,Fitness,784.0,0.13,2022-08-12,United States,1.0,Consumer_Discretionary
+Truepill,SF Bay Area,Healthcare,175.0,0.33,2022-08-11,United States,1.0,Healthcare
+Calm,SF Bay Area,Healthcare,90.0,0.2,2022-08-11,United States,1.0,Healthcare
+FourKites,Chicago,Logistics,60.0,0.08,2022-08-11,United States,1.0,Industrial
+Marketforce,Nairobi,Retail,54.0,0.09,2022-08-11,Kenya,1.0,Consumer_Staples
+Trybe,Sao Paulo,Education,47.0,0.1,2022-08-10,Brazil,0.0,Consumer_Discretionary
+Permutive,London,Marketing,30.0,0.12,2022-08-10,United Kingdom,0.0,Industrial
+GoHealth,Chicago,Healthcare,800.0,0.2,2022-08-09,United States,1.0,Healthcare
+Hootsuite,Vancouver,Marketing,400.0,0.3,2022-08-09,Canada,1.0,Industrial
+Nutanix,SF Bay Area,Infrastructure,270.0,0.04,2022-08-09,United States,1.0,Industrial
+Quanterix,Boston,Healthcare,130.0,0.25,2022-08-09,United States,1.0,Healthcare
+MadeiraMadeira,Curitiba,Retail,60.0,0.03,2022-08-09,Brazil,1.0,Consumer_Staples
+Linktree,Melbourne,Consumer,50.0,0.17,2022-08-09,Australia,1.0,Consumer_Discretionary
+Shogun,SF Bay Area,Retail,48.0,0.3,2022-08-09,United States,0.0,Consumer_Staples
+Groupon,Chicago,Retail,500.0,0.15,2022-08-08,United States,1.0,Consumer_Staples
+Loggi,Sao Paulo,Logistics,500.0,0.15,2022-08-08,Brazil,1.0,Industrial
+Perion,Tel Aviv,Marketing,20.0,0.05,2022-08-08,Israel,0.0,Industrial
+iRobot,Boston,Consumer,140.0,0.1,2022-08-05,United States,1.0,Consumer_Discretionary
+Mejuri,Toronto,Retail,50.0,0.1,2022-08-05,Canada,1.0,Consumer_Staples
+Uberflip,Toronto,Marketing,31.0,0.17,2022-08-05,Canada,0.0,Industrial
+Doma,SF Bay Area,Finance,250.0,0.13,2022-08-04,United States,1.0,Financial
+Article,Vancouver,Retail,216.0,0.17,2022-08-04,Canada,1.0,Consumer_Staples
+Jam City,Los Angeles,Consumer,200.0,0.17,2022-08-04,United States,1.0,Consumer_Discretionary
+10X Genomics,SF Bay Area,Healthcare,100.0,0.08,2022-08-04,United States,1.0,Healthcare
+LEAD,Mumbai,Education,80.0,0.04,2022-08-04,India,1.0,Consumer_Discretionary
+On Deck,SF Bay Area,Education,73.0,0.33,2022-08-04,United States,1.0,Consumer_Discretionary
+RenoRun,Montreal,Construction,70.0,0.12,2022-08-04,Canada,1.0,Consumer_Discretionary
+Unbounce,Vancouver,Marketing,47.0,0.2,2022-08-03,Canada,0.0,Industrial
+Robinhood,SF Bay Area,Finance,713.0,0.23,2022-08-02,United States,1.0,Financial
+Latch,New York City,Security,115.0,0.37,2022-08-02,United States,1.0,Industrial
+Nylas,SF Bay Area,Product,80.0,0.25,2022-08-02,United States,1.0,Materials
+Outreach,Seattle,Sales,60.0,0.05,2022-08-02,United States,1.0,Industrial
+Sendy,Nairobi,Logistics,54.0,0.2,2022-08-02,Kenya,1.0,Industrial
+Sendy,Nairobi,Logistics,30.0,0.1,2022-08-02,Kenya,0.0,Industrial
+Stedi,Boulder,Product,23.0,0.3,2022-08-02,United States,0.0,Materials
+Glossier,New York City,Retail,19.0,0.08,2022-08-02,United States,0.0,Consumer_Staples
+Hash,Sao Paulo,Finance,58.0,0.5,2022-08-01,Brazil,1.0,Financial
+Metigy,Sydney,Marketing,75.0,1.0,2022-07-31,Australia,1.0,Industrial
+Vee,Tel Aviv,HR,16.0,0.32,2022-07-31,Israel,0.0,Industrial
+Clearco,Toronto,Finance,125.0,0.25,2022-07-29,Canada,1.0,Financial
+Quantcast,SF Bay Area,Marketing,40.0,0.06,2022-07-29,United States,0.0,Industrial
+Career Karma,SF Bay Area,Education,60.0,0.33,2022-07-28,United States,1.0,Consumer_Discretionary
+Metromile,SF Bay Area,Finance,60.0,0.2,2022-07-28,United States,1.0,Financial
+Rivian,Detroit,Transportation,840.0,0.06,2022-07-27,United States,1.0,Energy
+Vox Media,Washington D.C.,Media,39.0,0.02,2022-07-27,United States,0.0,Communication
+Coinsquare,Toronto,Crypto,30.0,0.24,2022-07-27,Canada,0.0,Financial
+Skai,Tel Aviv,Marketing,30.0,0.04,2022-07-27,Israel,0.0,Industrial
+Shopify,Ottawa,Retail,1000.0,0.1,2022-07-26,Canada,1.0,Consumer_Staples
+Fiverr,Tel Aviv,Other,60.0,0.08,2022-07-26,Israel,1.0,Other
+InDebted,Sydney,Finance,40.0,0.17,2022-07-26,Australia,0.0,Financial
+Outbrain,New York City,Marketing,38.0,0.03,2022-07-26,United States,0.0,Industrial
+Dover,SF Bay Area,Recruiting,23.0,0.3,2022-07-26,United States,0.0,Industrial
+Immutable,Sydney,Crypto,20.0,0.06,2022-07-26,Australia,0.0,Financial
+Pear Therapeutics ,Boston,Healthcare,25.0,0.09,2022-07-25,United States,0.0,Healthcare
+Soluto,Tel Aviv,Support,120.0,1.0,2022-07-24,Israel,1.0,Info_Tech
+Eucalyptus,Sydney,Healthcare,50.0,0.2,2022-07-22,United States,1.0,Healthcare
+Quanto,Sao Paulo,Finance,28.0,0.22,2022-07-22,Brazil,0.0,Financial
+Clarify Health,SF Bay Area,Healthcare,15.0,0.05,2022-07-22,United States,0.0,Healthcare
+Blockchain.com,London,Crypto,150.0,0.25,2022-07-21,United Kingdom,1.0,Financial
+Callisto Media,SF Bay Area,Media,140.0,0.35,2022-07-21,United States,1.0,Communication
+AppGate,Miami,Security,130.0,0.22,2022-07-21,United States,1.0,Industrial
+WHOOP,Boston,Fitness,95.0,0.15,2022-07-21,United States,1.0,Consumer_Discretionary
+Rad Power Bikes,Seattle,Transportation,63.0,0.1,2022-07-21,United States,1.0,Energy
+Lunchbox,New York City,Food,60.0,0.33,2022-07-21,United States,1.0,Consumer_Staples
+RealSelf,Seattle,Healthcare,11.0,0.05,2022-07-21,United States,0.0,Healthcare
+Flyhomes,Seattle,Real Estate,200.0,0.2,2022-07-20,United States,1.0,Real_Estate
+Lyft,SF Bay Area,Transportation,60.0,0.02,2022-07-20,United States,1.0,Energy
+Introhive,Ferdericton,Sales,57.0,0.16,2022-07-20,Canada,1.0,Industrial
+Zencity,Tel Aviv,Other,30.0,0.2,2022-07-20,Israel,0.0,Other
+Forma.ai,Toronto,Sales,15.0,0.09,2022-07-20,Canada,0.0,Industrial
+Olive,Columbus,Healthcare,450.0,0.31,2022-07-19,United States,1.0,Healthcare
+Stint,London,HR,28.0,0.2,2022-07-19,United Kingdom,0.0,Industrial
+Gemini,New York City,Crypto,68.0,0.07,2022-07-18,United States,1.0,Financial
+Lusha,New York City,Marketing,30.0,0.1,2022-07-18,United States,0.0,Industrial
+Bright Money,Bengaluru,Finance,100.0,0.5,2022-07-15,India,1.0,Financial
+Project44,Chicago,Logistics,63.0,0.05,2022-07-15,United States,1.0,Industrial
+Heroes,London,Retail,24.0,0.2,2022-07-15,United States,0.0,Consumer_Staples
+Zego,London,Finance,85.0,0.17,2022-07-14,United Kingdom,1.0,Financial
+The Mom Project,Chicago,HR,54.0,0.15,2022-07-14,United States,1.0,Industrial
+Unstoppable Domains,SF Bay Area,Crypto,42.0,0.25,2022-07-14,United States,0.0,Financial
+Kiavi,SF Bay Area,Real Estate,39.0,0.07,2022-07-14,United States,0.0,Real_Estate
+Wave,Dakar,Finance,300.0,0.15,2022-07-13,Senegal,1.0,Financial
+Tonal,SF Bay Area,Fitness,262.0,0.35,2022-07-13,United States,1.0,Consumer_Discretionary
+Fabric,New York City,Logistics,120.0,0.4,2022-07-13,United States,1.0,Industrial
+Bryter,Berlin,Product,100.0,0.3,2022-07-13,Germany,1.0,Materials
+ChowNow,Los Angeles,Food,100.0,0.2,2022-07-13,United States,1.0,Consumer_Staples
+Involves,Florianópolis,Retail,70.0,0.18,2022-07-13,Brazil,1.0,Consumer_Staples
+Gopuff,Philadelphia,Food,1500.0,0.1,2022-07-12,United States,1.0,Consumer_Staples
+Hubilo,SF Bay Area,Marketing,45.0,0.12,2022-07-12,United States,0.0,Industrial
+Hopin,London,Other,242.0,0.29,2022-07-11,United Kingdom,1.0,Other
+SundaySky,New York City,Marketing,24.0,0.13,2022-07-11,United States,0.0,Industrial
+Butler Hospitality,New York City,Food,1000.0,1.0,2022-07-08,United States,1.0,Consumer_Staples
+Calibrate,New York City,Healthcare,156.0,0.24,2022-07-08,United States,1.0,Healthcare
+Argo AI,Pittsburgh,Transportation,150.0,0.05,2022-07-07,United States,1.0,Energy
+Next Insurance,SF Bay Area,Finance,150.0,0.17,2022-07-07,United States,1.0,Financial
+Emotive,Los Angeles,Marketing,30.0,0.18,2022-07-07,United States,0.0,Industrial
+Remote,SF Bay Area,HR,100.0,0.09,2022-07-06,United States,1.0,Industrial
+Anodot,Tel Aviv,Data,35.0,0.27,2022-07-06,United States,0.0,Info_Tech
+SQream,New York City,Data,30.0,0.18,2022-07-06,United States,0.0,Info_Tech
+Loft,Sao Paulo,Real Estate,384.0,0.12,2022-07-05,Brazil,1.0,Real_Estate
+Bizzabo,New York City,Marketing,120.0,0.3,2022-07-05,United States,1.0,Industrial
+eToro,Tel Aviv,Finance,100.0,0.06,2022-07-05,Israel,1.0,Financial
+Verbit,New York City,Data,80.0,0.1,2022-07-05,United States,1.0,Info_Tech
+Outschool,SF Bay Area,Education,31.0,0.18,2022-07-05,United States,0.0,Consumer_Discretionary
+Bullish,Hong Kong,Crypto,30.0,0.08,2022-07-05,Hong Kong,0.0,Financial
+Transmit Security,Boston,Security,27.0,0.07,2022-07-05,United States,0.0,Industrial
+Thimble,New York City,Finance,20.0,0.33,2022-07-05,United States,0.0,Financial
+Syte,Tel Aviv,Retail,13.0,0.08,2022-07-05,Israel,0.0,Consumer_Staples
+Lightricks,Jerusalem,Consumer,80.0,0.12,2022-07-04,Israel,1.0,Consumer_Discretionary
+Sendle,Sydney,Logistics,27.0,0.12,2022-07-04,Australia,0.0,Industrial
+Lendis,Berlin,Other,18.0,0.15,2022-07-04,Germany,0.0,Other
+Celsius,New York City,Crypto,150.0,0.25,2022-07-03,United States,1.0,Financial
+WanderJaunt,SF Bay Area,Travel,85.0,1.0,2022-07-01,United States,1.0,Consumer_Discretionary
+Canoo,Los Angeles,Transportation,58.0,0.06,2022-07-01,United States,1.0,Energy
+Teleport,SF Bay Area,Infrastructure,15.0,0.06,2022-07-01,United States,0.0,Industrial
+Enjoy,SF Bay Area,Retail,400.0,0.18,2022-06-30,United States,1.0,Consumer_Staples
+Crejo.Fun,Bengaluru,Education,170.0,1.0,2022-06-30,India,1.0,Consumer_Discretionary
+Stash Financial,New York City,Finance,40.0,0.08,2022-06-30,United States,0.0,Financial
+Nate,New York City,Retail,30.0,0.2,2022-06-30,United States,0.0,Consumer_Staples
+Stream,Boulder,Product,20.0,0.12,2022-06-30,United States,0.0,Materials
+Finleap Connect,Hamburg,Finance,14.0,0.1,2022-06-30,Germany,0.0,Financial
+Abra,SF Bay Area,Crypto,12.0,0.05,2022-06-30,United States,0.0,Financial
+Unity,SF Bay Area,Other,200.0,0.04,2022-06-29,United States,1.0,Other
+Niantic,SF Bay Area,Consumer,85.0,0.08,2022-06-29,United States,1.0,Consumer_Discretionary
+Qumulo,Seattle,Data,80.0,0.19,2022-06-29,United States,1.0,Info_Tech
+Clutch,Toronto,Transportation,76.0,0.22,2022-06-29,Canada,1.0,Energy
+Oye Rickshaw,New Delhi,Transportation,40.0,0.2,2022-06-29,India,0.0,Energy
+Rows,Berlin,Other,18.0,0.3,2022-06-29,Germany,0.0,Other
+Baton,SF Bay Area,Transportation,16.0,0.25,2022-06-29,United States,0.0,Energy
+Substack,SF Bay Area,Media,13.0,0.14,2022-06-29,United States,0.0,Communication
+Huobi,Beijing,Crypto,300.0,0.3,2022-06-28,China,1.0,Financial
+StockX,Detroit,Retail,120.0,0.08,2022-06-28,United States,1.0,Consumer_Staples
+Sidecar Health,Los Angeles,Healthcare,110.0,0.4,2022-06-28,United States,1.0,Healthcare
+Vezeeta,Dubai,Healthcare,50.0,0.1,2022-06-28,United Arab Emirates,1.0,Healthcare
+Bright Machines,SF Bay Area,Data,30.0,0.08,2022-06-28,Israel,0.0,Info_Tech
+HealthMatch,Sydney,Healthcare,18.0,0.5,2022-06-28,Australia,0.0,Healthcare
+AppLovin,SF Bay Area,Marketing,300.0,0.12,2022-06-27,United States,1.0,Industrial
+UiPath,New York City,Data,210.0,0.05,2022-06-27,United States,1.0,Info_Tech
+Udaan,Bengaluru,Retail,180.0,0.04,2022-06-27,India,1.0,Consumer_Staples
+Banxa,Melbourne,Crypto,70.0,0.3,2022-06-27,Australia,1.0,Financial
+SafeGraph,SF Bay Area,Data,27.0,0.25,2022-06-27,United States,0.0,Info_Tech
+Bitpanda,Vienna,Crypto,270.0,0.27,2022-06-24,Austria,1.0,Financial
+Sunday,Atlanta,Finance,90.0,0.23,2022-06-24,United States,1.0,Financial
+Bestow,Dallas,Finance,41.0,0.14,2022-06-24,United States,0.0,Financial
+Ethos Life,SF Bay Area,Finance,40.0,0.12,2022-06-24,United States,0.0,Financial
+Netflix,SF Bay Area,Media,300.0,0.03,2022-06-23,United States,1.0,Communication
+Aura,Boston,Security,70.0,0.09,2022-06-23,United States,1.0,Industrial
+Pipl,Spokane,Security,22.0,0.13,2022-06-23,United States,0.0,Industrial
+Vouch,SF Bay Area,Finance,15.0,0.07,2022-06-23,United States,0.0,Financial
+Voyage SMS,Los Angeles,Marketing,8.0,0.13,2022-06-23,United States,0.0,Industrial
+MasterClass,SF Bay Area,Education,120.0,0.2,2022-06-22,United States,1.0,Consumer_Discretionary
+IronNet,Washington D.C.,Security,90.0,0.35,2022-06-22,United States,1.0,Industrial
+IronNet,Washington D.C.,Security,55.0,0.17,2022-06-22,United States,1.0,Industrial
+Superpedestrian,Boston,Transportation,35.0,0.07,2022-06-22,United States,0.0,Energy
+Voi,Stockholm,Transportation,35.0,0.1,2022-06-22,United States,0.0,Energy
+Ritual,Toronto,Food,23.0,0.16,2022-06-22,Canada,0.0,Consumer_Staples
+Ebanx,Curitiba,Finance,340.0,0.2,2022-06-21,Brazil,1.0,Financial
+TaskUs,Los Angeles,Support,52.0,0.0,2022-06-21,United States,1.0,Info_Tech
+Community,Los Angeles,Marketing,40.0,0.3,2022-06-21,United States,0.0,Industrial
+Sourcegraph,SF Bay Area,Product,24.0,0.08,2022-06-21,United States,0.0,Materials
+Bybit,Singapore,Crypto,600.0,0.3,2022-06-20,Singapore,1.0,Financial
+SummerBio,SF Bay Area,Healthcare,101.0,1.0,2022-06-20,United States,1.0,Healthcare
+Trax,Singapore,Retail,100.0,0.12,2022-06-20,Singapore,1.0,Consumer_Staples
+Aqgromalin,Chennai,Food,80.0,0.3,2022-06-20,India,1.0,Consumer_Staples
+Bonsai,Toronto,Retail,30.0,0.55,2022-06-20,Canada,0.0,Consumer_Staples
+Brighte,Sydney,Energy,30.0,0.15,2022-06-20,Australia,0.0,Energy
+CityMall,Gurugram,Retail,191.0,0.3,2022-06-19,India,1.0,Consumer_Staples
+BitOasis,Dubai,Crypto,9.0,0.05,2022-06-19,United Arab Emirates,0.0,Financial
+Unacademy,Bengaluru,Education,150.0,0.03,2022-06-18,India,1.0,Consumer_Discretionary
+Socure,Reno,Finance,69.0,0.13,2022-06-17,United States,1.0,Financial
+Finite State,Columbus,Security,16.0,0.2,2022-06-17,United States,0.0,Industrial
+JOKR,New York City,Food,50.0,0.05,2022-06-16,United States,1.0,Consumer_Staples
+Zumper,SF Bay Area,Real Estate,45.0,0.15,2022-06-16,United States,0.0,Real_Estate
+Swappie,Helsinki,Retail,250.0,0.17,2022-06-15,Finland,1.0,Consumer_Staples
+Wealthsimple,Toronto,Finance,159.0,0.13,2022-06-15,Canada,1.0,Financial
+Weee!,SF Bay Area,Food,150.0,0.1,2022-06-15,United States,1.0,Consumer_Staples
+Notarize,Boston,Legal,110.0,0.25,2022-06-15,United States,1.0,Industrial
+Elementor,Tel Aviv,Media,60.0,0.15,2022-06-15,Israel,1.0,Communication
+Tonkean,SF Bay Area,Other,23.0,0.23,2022-06-15,United States,0.0,Other
+OpenWeb,Tel Aviv,Media,14.0,0.05,2022-06-15,Israel,0.0,Communication
+Swyft,Toronto,Logistics,10.0,0.3,2022-06-15,Canada,0.0,Industrial
+Coinbase,SF Bay Area,Crypto,1100.0,0.18,2022-06-14,United States,1.0,Financial
+Redfin,Seattle,Real Estate,470.0,0.08,2022-06-14,United States,1.0,Real_Estate
+Compass,New York City,Real Estate,450.0,0.1,2022-06-14,United States,1.0,Real_Estate
+Sami,Sao Paulo,Healthcare,75.0,0.15,2022-06-14,Brazil,1.0,Healthcare
+Breathe,New Delhi,Healthcare,50.0,0.33,2022-06-14,India,1.0,Healthcare
+TIFIN,Boulder,Crypto,24.0,0.1,2022-06-14,United States,0.0,Financial
+BlockFi,New York City,Crypto,250.0,0.2,2022-06-13,United States,1.0,Financial
+Wave Sports and Entertainment,Los Angeles,Media,56.0,0.33,2022-06-13,United States,1.0,Communication
+Studio,SF Bay Area,Education,33.0,0.4,2022-06-13,United States,0.0,Consumer_Discretionary
+Crypto.com,Singapore,Crypto,260.0,0.05,2022-06-10,Singapore,1.0,Financial
+FarEye,New Delhi,Logistics,250.0,0.3,2022-06-10,India,1.0,Industrial
+Berlin Brands Group,Berlin,Retail,100.0,0.1,2022-06-10,Germany,1.0,Consumer_Staples
+Sanar,Sao Paulo,Healthcare,60.0,0.2,2022-06-10,Brazil,1.0,Healthcare
+Freetrade,London,Finance,45.0,0.15,2022-06-10,United Kingdom,0.0,Financial
+Albert,Los Angeles,Finance,20.0,0.08,2022-06-10,United States,0.0,Financial
+OneTrust,Atlanta,Security,950.0,0.25,2022-06-09,United States,1.0,Industrial
+Stitch Fix,SF Bay Area,Retail,330.0,0.15,2022-06-09,United States,1.0,Consumer_Staples
+Daniel Wellington,Stockholm,Retail,200.0,0.15,2022-06-09,Sweden,1.0,Consumer_Staples
+Convoy,Seattle,Logistics,90.0,0.07,2022-06-09,United States,1.0,Industrial
+Hologram,Chicago,Infrastructure,80.0,0.4,2022-06-09,United States,1.0,Industrial
+Boozt,Malmo,Retail,70.0,0.05,2022-06-09,Sweden,1.0,Consumer_Staples
+The Grommet,Boston,Retail,40.0,1.0,2022-06-09,United States,0.0,Consumer_Staples
+Stashaway,Singapore,Finance,31.0,0.14,2022-06-09,Singapore,0.0,Financial
+Preply,Boston,Education,26.0,0.05,2022-06-09,United States,0.0,Consumer_Discretionary
+Sonder,SF Bay Area,Travel,250.0,0.21,2022-06-08,United States,1.0,Consumer_Discretionary
+Truepill,SF Bay Area,Healthcare,150.0,0.15,2022-06-08,United States,1.0,Healthcare
+iPrice Group,Kuala Lumpur,Retail,50.0,0.2,2022-06-08,Malaysia,1.0,Consumer_Staples
+Cazoo,London,Transportation,750.0,0.15,2022-06-07,United Kingdom,1.0,Energy
+Cazoo,London,Transportation,750.0,0.15,2022-06-07,United Kingdom,1.0,Energy
+Rupeek,Bengaluru,Finance,180.0,0.15,2022-06-07,India,1.0,Financial
+Bird,Los Angeles,Transportation,138.0,0.23,2022-06-07,United States,1.0,Energy
+Dutchie,Bend,Other,50.0,0.07,2022-06-06,United States,1.0,Other
+Afterverse,Brasilia,Consumer,60.0,0.2,2022-06-03,Brazil,1.0,Consumer_Discretionary
+Superhuman,SF Bay Area,Consumer,23.0,0.22,2022-06-03,United States,0.0,Consumer_Discretionary
+Food52,New York City,Food,21.0,0.15,2022-06-03,United States,0.0,Consumer_Staples
+Carbon Health,SF Bay Area,Healthcare,250.0,0.08,2022-06-02,United States,1.0,Healthcare
+PolicyGenius,New York City,Finance,170.0,0.25,2022-06-02,United States,1.0,Financial
+Yojak,Gurugram,Construction,140.0,0.5,2022-06-02,India,1.0,Consumer_Discretionary
+Gemini,New York City,Crypto,100.0,0.1,2022-06-02,United States,1.0,Financial
+Stord,Atlanta,Logistics,59.0,0.08,2022-06-02,United States,1.0,Industrial
+Gather,SF Bay Area,Consumer,30.0,0.33,2022-06-02,United States,0.0,Consumer_Discretionary
+IRL,SF Bay Area,Consumer,25.0,0.25,2022-06-02,United States,0.0,Consumer_Discretionary
+TomTom,Amsterdam,Transportation,500.0,0.1,2022-06-01,Netherlands,1.0,Energy
+Cybereason,Boston,Security,100.0,0.06,2022-06-01,United States,1.0,Industrial
+Udayy,Gurugram,Education,100.0,1.0,2022-06-01,India,1.0,Consumer_Discretionary
+2TM,Sao Paulo,Crypto,90.0,0.12,2022-06-01,Brazil,1.0,Financial
+Curve,London,Finance,65.0,0.1,2022-06-01,United Kingdom,1.0,Financial
+Loom,SF Bay Area,Product,34.0,0.14,2022-06-01,United States,0.0,Materials
+Impala,London,Travel,30.0,0.35,2022-06-01,United Kingdom,0.0,Consumer_Discretionary
+Playtika,Tel Aviv,Consumer,250.0,0.06,2022-05-31,Israel,1.0,Consumer_Discretionary
+Tomo,Stamford,Finance,44.0,0.33,2022-05-31,United States,0.0,Financial
+BookClub,Salt Lake City,Education,12.0,0.25,2022-05-31,United States,0.0,Consumer_Discretionary
+SWVL,Dubai,Transportation,400.0,0.32,2022-05-30,United Arab Emirates,1.0,Energy
+Mobile Premier League,Bengaluru,Consumer,100.0,0.1,2022-05-30,India,1.0,Consumer_Discretionary
+SumUp,Sao Paulo,Finance,100.0,0.03,2022-05-30,Brazil,1.0,Financial
+FrontRow,Bengaluru,Education,145.0,0.3,2022-05-27,India,1.0,Consumer_Discretionary
+Uncapped,London,Finance,29.0,0.26,2022-05-27,United Kingdom,0.0,Financial
+VTEX,Sao Paulo,Retail,200.0,0.13,2022-05-26,Brazil,1.0,Consumer_Staples
+Bitso,Mexico City,Crypto,80.0,0.11,2022-05-26,Mexico,1.0,Financial
+Dazn,London,Consumer,50.0,0.02,2022-05-26,United Kingdom,1.0,Consumer_Discretionary
+Lacework,SF Bay Area,Security,300.0,0.2,2022-05-25,United States,1.0,Industrial
+Bolt,SF Bay Area,Finance,240.0,0.27,2022-05-25,United States,1.0,Financial
+Kontist,Berlin,Finance,50.0,0.25,2022-05-25,Germany,1.0,Financial
+Nuri,Berlin,Finance,45.0,0.2,2022-05-25,Germany,0.0,Financial
+Coterie Insurance,Cincinnati,Finance,30.0,0.2,2022-05-25,United States,0.0,Financial
+Gorillas,Berlin,Food,300.0,0.5,2022-05-24,Germany,1.0,Consumer_Staples
+Klarna,Stockholm,Finance,700.0,0.1,2022-05-23,Sweden,1.0,Financial
+Buenbit,Buenos Aires,Crypto,80.0,0.45,2022-05-23,Argentina,1.0,Financial
+BeyondMinds,Tel Aviv,Data,65.0,1.0,2022-05-23,Israel,1.0,Info_Tech
+ClickUp,San Diego,Other,60.0,0.07,2022-05-23,United States,1.0,Other
+Airtime,New York City,Consumer,30.0,0.2,2022-05-23,United States,0.0,Consumer_Discretionary
+MFine,Bengaluru,Healthcare,600.0,0.75,2022-05-21,India,1.0,Healthcare
+Latch,New York City,Security,130.0,0.28,2022-05-20,United States,1.0,Industrial
+Outside,Boulder,Media,87.0,0.15,2022-05-20,United States,1.0,Communication
+Skillz,SF Bay Area,Consumer,70.0,0.1,2022-05-20,United States,1.0,Consumer_Discretionary
+Cars24,Gurugram,Transportation,600.0,0.06,2022-05-19,India,1.0,Energy
+Vedantu,Bengaluru,Education,424.0,0.07,2022-05-18,India,1.0,Consumer_Discretionary
+Netflix,SF Bay Area,Media,150.0,0.01,2022-05-17,United States,1.0,Communication
+Kry,Stockholm,Healthcare,100.0,0.1,2022-05-17,Sweden,1.0,Healthcare
+Picsart,Miami,Consumer,90.0,0.08,2022-05-17,United States,1.0,Consumer_Discretionary
+Zak,Sao Paulo,Food,100.0,0.4,2022-05-16,United States,1.0,Consumer_Staples
+AliExpress Russia,Moscow,Retail,400.0,0.4,2022-05-14,Russia,1.0,Consumer_Staples
+DataRobot,Boston,Data,70.0,0.07,2022-05-11,United States,1.0,Info_Tech
+Carvana,Phoenix,Transportation,2500.0,0.12,2022-05-10,United States,1.0,Energy
+Doma,SF Bay Area,Finance,310.0,0.15,2022-05-10,United States,1.0,Financial
+Pollen,London,Travel,200.0,0.33,2022-05-10,United Kingdom,1.0,Consumer_Discretionary
+Latch,New York City,Security,30.0,0.06,2022-05-10,United States,0.0,Industrial
+Meero,Paris,Other,350.0,0.5,2022-05-09,France,1.0,Other
+Vroom,New York City,Transportation,270.0,0.14,2022-05-09,United States,1.0,Energy
+Reef,Miami,Transportation,750.0,0.05,2022-05-06,United States,1.0,Energy
+Vedantu,Bengaluru,Education,200.0,0.03,2022-05-05,India,1.0,Consumer_Discretionary
+Mural,SF Bay Area,Product,90.0,0.1,2022-05-05,United States,1.0,Materials
+On Deck,SF Bay Area,Education,72.0,0.25,2022-05-05,United States,1.0,Consumer_Discretionary
+SEND,Sydney,Food,300.0,1.0,2022-05-04,Australia,1.0,Consumer_Staples
+Cameo,Chicago,Consumer,87.0,0.25,2022-05-04,United States,1.0,Consumer_Discretionary
+Mainstreet,SF Bay Area,Finance,45.0,0.3,2022-05-04,United States,0.0,Financial
+Avo,Tel Aviv,Food,500.0,0.67,2022-05-01,Israel,1.0,Consumer_Staples
+Domestika,SF Bay Area,Education,150.0,0.19,2022-04-28,United States,1.0,Consumer_Discretionary
+Robinhood,SF Bay Area,Finance,340.0,0.09,2022-04-26,United States,1.0,Financial
+Bonsai,Toronto,Retail,29.0,0.34,2022-04-26,Canada,0.0,Consumer_Staples
+Xiaohongshu,Shanghai,Consumer,180.0,0.09,2022-04-21,China,1.0,Consumer_Discretionary
+Facily,Sao Paulo,Retail,260.0,0.3,2022-04-20,Brazil,1.0,Consumer_Staples
+Blend,SF Bay Area,Finance,200.0,0.1,2022-04-19,United States,1.0,Financial
+QuintoAndar,Sao Paulo,Real Estate,160.0,0.04,2022-04-19,Brazil,1.0,Real_Estate
+Ahead,SF Bay Area,Healthcare,44.0,1.0,2022-04-14,United States,0.0,Healthcare
+Rad Power Bikes,Seattle,Transportation,100.0,0.14,2022-04-12,United States,1.0,Energy
+Food52,New York City,Food,20.0,0.1,2022-04-08,United States,0.0,Consumer_Staples
+Unacademy,Bengaluru,Education,1000.0,0.17,2022-04-07,India,1.0,Consumer_Discretionary
+BitMEX,Non-U.S.,Crypto,75.0,0.25,2022-04-04,Seychelles,1.0,Financial
+Legible,Vancouver,Media,23.0,0.38,2022-04-04,Canada,0.0,Communication
+Rasa,Berlin,Data,59.0,0.4,2022-03-30,Germany,1.0,Info_Tech
+Gopuff,Philadelphia,Food,450.0,0.03,2022-03-29,United States,1.0,Consumer_Staples
+Thinkific,Vancouver,Education,100.0,0.2,2022-03-29,Canada,1.0,Consumer_Discretionary
+Storytel,Stockholm,Media,100.0,0.1,2022-03-17,Sweden,1.0,Communication
+Trell,Bengaluru,Retail,300.0,0.5,2022-03-15,India,1.0,Consumer_Staples
+Knock,New York City,Real Estate,115.0,0.46,2022-03-15,United States,1.0,Real_Estate
+Better.com,New York City,Real Estate,3000.0,0.33,2022-03-08,United States,1.0,Real_Estate
+Adaptive Biotechnologies,Seattle,Healthcare,100.0,0.12,2022-03-08,United States,1.0,Healthcare
+Hyperscience,New York City,Data,100.0,0.25,2022-03-03,United States,1.0,Info_Tech
+Wish,SF Bay Area,Retail,190.0,0.15,2022-03-01,United States,1.0,Consumer_Staples
+Virgin Hyperloop,Los Angeles,Transportation,111.0,0.5,2022-02-21,United States,1.0,Energy
+Liv Up,Sao Paulo,Food,100.0,0.15,2022-02-16,Brazil,1.0,Consumer_Staples
+Homie,Salt Lake City,Real Estate,119.0,0.29,2022-02-14,United States,1.0,Real_Estate
+Hopin,London,Other,138.0,0.12,2022-02-10,United States,1.0,Other
+Daily Harvest,New York City,Food,60.0,0.2,2022-02-10,United States,1.0,Consumer_Staples
+Peloton,New York City,Fitness,2800.0,0.2,2022-02-08,United States,1.0,Consumer_Discretionary
+Rhino,New York City,Real Estate,57.0,0.2,2022-02-03,United States,1.0,Real_Estate
+Glossier,New York City,Consumer,80.0,0.33,2022-01-26,United States,1.0,Consumer_Discretionary
+Better.com,New York City,Real Estate,900.0,0.09,2021-12-01,United States,1.0,Real_Estate
+BitTitan,Seattle,Data,70.0,0.27,2021-11-18,United States,1.0,Info_Tech
+Zillow,Seattle,Real Estate,2000.0,0.25,2021-11-02,United States,1.0,Real_Estate
+Treehouse,Portland,Education,41.0,0.9,2021-09-14,United States,0.0,Consumer_Discretionary
+Flockjay,SF Bay Area,Education,37.0,0.5,2021-08-24,United States,0.0,Consumer_Discretionary
+Katerra,SF Bay Area,Construction,2434.0,1.0,2021-06-01,United States,1.0,Consumer_Discretionary
+New Relic,SF Bay Area,Infrastructure,160.0,0.07,2021-04-06,United States,1.0,Industrial
+Bounce,Bengaluru,Transportation,200.0,0.4,2021-02-22,India,1.0,Energy
+Limelight,New York City,Recruiting,13.0,1.0,2021-02-04,United States,0.0,Industrial
+Quandoo,Berlin,Food,87.0,0.2,2021-02-03,Germany,1.0,Consumer_Staples
+Hubba,Toronto,Retail,45.0,1.0,2021-02-01,Canada,0.0,Consumer_Staples
+Postmates,SF Bay Area,Food,180.0,0.15,2021-01-23,United States,1.0,Consumer_Staples
+Pocketmath,Singapore,Marketing,21.0,1.0,2021-01-20,Singapore,0.0,Industrial
+Dropbox,SF Bay Area,Other,315.0,0.15,2021-01-13,United States,1.0,Other
+Breather,Montreal,Real Estate,120.0,0.8,2020-12-16,Canada,1.0,Real_Estate
+Aya,Toronto,Finance,5.0,0.25,2020-11-19,United States,0.0,Financial
+Bridge Connector,Nashville,Healthcare,154.0,1.0,2020-11-17,United States,1.0,Healthcare
+Tidepool,SF Bay Area,Healthcare,18.0,0.4,2020-11-17,United States,0.0,Healthcare
+Worksmith,Austin,Retail,30.0,0.5,2020-11-09,United States,0.0,Consumer_Staples
+Knotel,New York City,Real Estate,20.0,0.08,2020-10-29,United States,0.0,Real_Estate
+GetYourGuide,Berlin,Travel,90.0,0.17,2020-10-14,Germany,1.0,Consumer_Discretionary
+Alto Pharmacy,SF Bay Area,Healthcare,47.0,0.06,2020-09-29,United States,0.0,Healthcare
+NS8,Las Vegas,Data,240.0,0.95,2020-09-11,United States,1.0,Info_Tech
+Waze,SF Bay Area,Transportation,30.0,0.054,2020-09-09,United States,0.0,Energy
+GoBear,Singapore,Finance,22.0,0.11,2020-09-01,Singapore,0.0,Financial
+MakeMyTrip,New Delhi,Travel,350.0,0.1,2020-08-31,India,1.0,Consumer_Discretionary
+Salesforce,SF Bay Area,Sales,1000.0,0.0185,2020-08-26,United States,1.0,Industrial
+Docly,London,Healthcare,8.0,0.8,2020-08-19,United Kingdom,0.0,Healthcare
+Mozilla,SF Bay Area,Consumer,250.0,0.25,2020-08-11,United States,1.0,Consumer_Discretionary
+Eatsy,Singapore,Food,20.0,1.0,2020-08-08,Singapore,0.0,Consumer_Staples
+Glossier,New York City,Retail,150.0,0.38,2020-08-07,United States,1.0,Consumer_Staples
+Thriver,Toronto,Food,75.0,0.5,2020-08-06,Canada,1.0,Consumer_Staples
+Booking.com,Amsterdam,Travel,4375.0,0.25,2020-07-30,Netherlands,1.0,Consumer_Discretionary
+Buy.com / Rakuten,SF Bay Area,Retail,87.0,1.0,2020-07-30,United States,1.0,Consumer_Staples
+Procore,Los Angeles,Construction,180.0,0.09,2020-07-28,United States,1.0,Consumer_Discretionary
+Swiggy,Bengaluru,Food,350.0,0.05,2020-07-27,India,1.0,Consumer_Staples
+Zeitgold,Berlin,Finance,75.0,0.72,2020-07-27,Germany,1.0,Financial
+Checkr,SF Bay Area,HR,64.0,0.12,2020-07-23,United States,1.0,Industrial
+LinkedIn,SF Bay Area,Recruiting,960.0,0.06,2020-07-21,United States,1.0,Industrial
+Lighter Capital,Seattle,Finance,22.0,0.49,2020-07-20,United States,0.0,Financial
+Optimizely,SF Bay Area,Marketing,60.0,0.15,2020-07-15,United States,1.0,Industrial
+Skyscanner,Edinburgh,Travel,300.0,0.2,2020-07-14,United Kingdom,1.0,Consumer_Discretionary
+Zilingo,Singapore,Retail,100.0,0.12,2020-07-09,Singapore,1.0,Consumer_Staples
+G2,Chicago,Marketing,17.0,0.05,2020-06-30,United States,0.0,Industrial
+Katerra,SF Bay Area,Construction,400.0,0.07,2020-06-29,United States,1.0,Consumer_Discretionary
+Bounce,Bengaluru,Transportation,130.0,0.22,2020-06-29,India,1.0,Energy
+GoDaddy,Austin,Marketing,451.0,0.06,2020-06-24,United States,1.0,Industrial
+Sonos,New York City,Consumer,174.0,0.12,2020-06-24,United States,1.0,Consumer_Discretionary
+Gojek,Jakarta,Transportation,430.0,0.09,2020-06-23,Indonesia,1.0,Energy
+ScaleFactor,Austin,Finance,90.0,0.9,2020-06-23,United States,1.0,Financial
+Dark,SF Bay Area,Product,6.0,1.0,2020-06-23,United States,0.0,Materials
+Intuit,SF Bay Area,Finance,715.0,0.07,2020-06-22,United States,1.0,Financial
+Navi,Bengaluru,Finance,40.0,0.25,2020-06-17,India,0.0,Financial
+PaisaBazaar,Gurugram,Finance,1500.0,0.5,2020-06-16,India,1.0,Financial
+Grab,Singapore,Transportation,360.0,0.05,2020-06-16,Singapore,1.0,Energy
+Splunk,SF Bay Area,Data,70.0,0.01,2020-06-16,United States,1.0,Info_Tech
+Redox,Madison,Healthcare,44.0,0.25,2020-06-16,United States,0.0,Healthcare
+Uber,Amsterdam,Transportation,225.0,0.25,2020-06-12,Netherlands,1.0,Energy
+SynapseFI,SF Bay Area,Finance,63.0,0.48,2020-06-12,United States,1.0,Financial
+ScaleFocus,Sofia,Infrastructure,120.0,0.1,2020-06-11,Bulgaria,1.0,Industrial
+Branch,New York City,Retail,3.0,0.27,2020-06-11,United States,0.0,Consumer_Staples
+Her Campus Media,Boston,Media,10.0,0.18,2020-06-10,United States,0.0,Communication
+The Athletic,SF Bay Area,Media,46.0,0.08,2020-06-05,United States,0.0,Communication
+Ethos Life,SF Bay Area,Finance,18.0,0.14,2020-06-05,United States,0.0,Financial
+Lastline,SF Bay Area,Security,50.0,0.4,2020-06-04,United States,1.0,Industrial
+Builder,Los Angeles,Product,39.0,0.14,2020-06-04,United States,0.0,Materials
+Monzo,London,Finance,120.0,0.08,2020-06-03,United Kingdom,1.0,Financial
+SpotHero,Chicago,Transportation,40.0,0.21,2020-06-03,United States,0.0,Energy
+Credit Sesame,SF Bay Area,Finance,22.0,0.14,2020-06-03,United States,0.0,Financial
+Rivian,Detroit,Transportation,40.0,0.02,2020-06-02,United States,0.0,Energy
+Fundbox,SF Bay Area,Finance,14.0,0.15,2020-06-02,United States,0.0,Financial
+Descartes Labs,Santa Fe,Data,12.0,0.16,2020-06-02,United States,0.0,Info_Tech
+Stitch Fix,SF Bay Area,Retail,1400.0,0.18,2020-06-01,United States,1.0,Consumer_Staples
+MakeMyTrip,Gurugram,Travel,350.0,0.1,2020-06-01,India,1.0,Consumer_Discretionary
+CrowdStreet,Portland,Real Estate,24.0,0.22,2020-06-01,United States,0.0,Real_Estate
+Brex,SF Bay Area,Finance,62.0,0.15,2020-05-29,United States,1.0,Financial
+Loftium,Seattle,Real Estate,32.0,0.6,2020-05-29,United States,0.0,Real_Estate
+BookMyShow,Mumbai,Consumer,270.0,0.18,2020-05-28,India,1.0,Consumer_Discretionary
+TrueCar,Los Angeles,Transportation,219.0,0.3,2020-05-28,United States,1.0,Energy
+Culture Amp,Melbourne,HR,36.0,0.08,2020-05-28,Australia,0.0,Industrial
+The Sill,New York City,Retail,20.0,0.25,2020-05-28,United States,0.0,Consumer_Staples
+Instructure,Salt Lake City,Education,150.0,0.12,2020-05-27,United States,1.0,Consumer_Discretionary
+Ebanx,Curitiba,Finance,62.0,0.08,2020-05-27,Brazil,1.0,Financial
+Uber,Bengaluru,Transportation,600.0,0.23,2020-05-26,India,1.0,Energy
+Bluprint,Denver,Education,137.0,1.0,2020-05-26,United States,1.0,Consumer_Discretionary
+Cvent,Washington D.C.,Marketing,400.0,0.1,2020-05-21,United States,1.0,Industrial
+PickYourTrail,Chennai,Travel,70.0,0.35,2020-05-21,India,1.0,Consumer_Discretionary
+Glitch,New York City,Product,18.0,0.36,2020-05-21,United States,0.0,Materials
+Ola,Bengaluru,Transportation,1400.0,0.35,2020-05-20,India,1.0,Energy
+Samsara,SF Bay Area,Logistics,300.0,0.18,2020-05-20,United States,1.0,Industrial
+Stay Alfred,Spokane,Travel,221.0,1.0,2020-05-20,United States,1.0,Consumer_Discretionary
+SoFi,SF Bay Area,Finance,112.0,0.07,2020-05-20,United States,1.0,Financial
+ShareChat,Bengaluru,Marketing,101.0,0.25,2020-05-20,India,1.0,Industrial
+Intercom,SF Bay Area,Support,39.0,0.06,2020-05-20,United States,0.0,Info_Tech
+Livspace,Bengaluru,Retail,450.0,0.15,2020-05-19,India,1.0,Consumer_Staples
+Pollen,London,Travel,69.0,0.31,2020-05-19,United Kingdom,1.0,Consumer_Discretionary
+Dotscience,London,Product,10.0,1.0,2020-05-19,United Kingdom,0.0,Materials
+Uber,SF Bay Area,Transportation,3000.0,0.13,2020-05-18,United States,1.0,Energy
+Agoda,Singapore,Travel,1500.0,0.25,2020-05-18,Singapore,1.0,Consumer_Discretionary
+Swiggy,Bengaluru,Food,1100.0,0.14,2020-05-18,India,1.0,Consumer_Staples
+WeWork,New Delhi,Real Estate,100.0,0.2,2020-05-18,India,1.0,Real_Estate
+Intapp,SF Bay Area,Legal,45.0,0.05,2020-05-18,United States,0.0,Industrial
+Zomato,Gurugram,Food,520.0,0.13,2020-05-15,India,1.0,Consumer_Staples
+Lendingkart,Ahmedabad,Finance,500.0,0.5,2020-05-15,India,1.0,Financial
+Lattice,SF Bay Area,HR,16.0,0.1,2020-05-15,United States,0.0,Industrial
+Cruise,SF Bay Area,Transportation,150.0,0.08,2020-05-14,United States,1.0,Energy
+Quartz,New York City,Media,80.0,0.4,2020-05-14,United States,1.0,Communication
+Integral Ad Science,New York City,Marketing,70.0,0.1,2020-05-14,United States,1.0,Industrial
+Ridecell,SF Bay Area,Transportation,35.0,0.15,2020-05-14,United States,0.0,Energy
+Deliv,SF Bay Area,Retail,669.0,1.0,2020-05-13,United States,1.0,Consumer_Staples
+Mercos,Joinville,Sales,51.0,0.4,2020-05-13,Brazil,1.0,Industrial
+Kickstarter,New York City,Finance,25.0,0.18,2020-05-13,United States,0.0,Financial
+Intersect,Toronto,Product,19.0,0.11,2020-05-13,Canada,0.0,Materials
+Stone,Sao Paulo,Finance,1300.0,0.2,2020-05-12,Brazil,1.0,Financial
+Zeus Living,SF Bay Area,Real Estate,73.0,0.5,2020-05-12,United States,1.0,Real_Estate
+Mixpanel,SF Bay Area,Data,65.0,0.19,2020-05-12,United States,1.0,Info_Tech
+Hireology,Chicago,Recruiting,36.0,0.17,2020-05-12,United States,0.0,Industrial
+Top Hat,Toronto,Education,16.0,0.03,2020-05-12,Canada,0.0,Consumer_Discretionary
+Revolut,London,Finance,60.0,0.03,2020-05-11,United Kingdom,1.0,Financial
+Cadre,New York City,Real Estate,28.0,0.25,2020-05-11,United States,0.0,Real_Estate
+N26,New York City,Finance,9.0,0.01,2020-05-08,United States,0.0,Financial
+Jump,New York City,Transportation,500.0,1.0,2020-05-07,United States,1.0,Energy
+Glassdoor,SF Bay Area,Recruiting,300.0,0.3,2020-05-07,United States,1.0,Industrial
+Numbrs,Zurich,Finance,62.0,0.5,2020-05-07,Switzerland,1.0,Financial
+Flywire,Boston,Finance,60.0,0.12,2020-05-07,United States,1.0,Financial
+Tally,SF Bay Area,Finance,28.0,0.23,2020-05-07,United States,0.0,Financial
+Uber,SF Bay Area,Transportation,3700.0,0.14,2020-05-06,United States,1.0,Energy
+Validity,Boston,Data,130.0,0.33,2020-05-06,United States,1.0,Info_Tech
+Rubicon Project,Los Angeles,Marketing,50.0,0.08,2020-05-06,United States,1.0,Industrial
+Segment,SF Bay Area,Data,50.0,0.1,2020-05-06,United States,1.0,Info_Tech
+Airbnb,SF Bay Area,Travel,1900.0,0.25,2020-05-05,United States,1.0,Consumer_Discretionary
+Juul,SF Bay Area,Consumer,900.0,0.3,2020-05-05,United States,1.0,Consumer_Discretionary
+Andela,New York City,Recruiting,135.0,0.1,2020-05-05,United States,1.0,Industrial
+Stack Overflow,New York City,Recruiting,40.0,0.15,2020-05-05,United States,0.0,Industrial
+Workable,Boston,Recruiting,25.0,0.1,2020-05-05,United States,0.0,Industrial
+CureFit,Bengaluru,Fitness,800.0,0.16,2020-05-04,India,1.0,Consumer_Discretionary
+Careem,Dubai,Transportation,536.0,0.31,2020-05-04,United Arab Emirates,1.0,Energy
+Oriente,Hong Kong,Finance,400.0,0.2,2020-05-04,Hong Kong,1.0,Financial
+Veriff,Tallinn,Security,63.0,0.21,2020-05-04,Estonia,1.0,Industrial
+Element AI,Montreal,Other,62.0,0.15,2020-05-04,Canada,1.0,Other
+Deputy,Sydney,HR,60.0,0.3,2020-05-04,Australia,1.0,Industrial
+Loopio,Toronto,Sales,11.0,0.08,2020-05-04,Canada,0.0,Industrial
+Trax,Tel Aviv,Retail,120.0,0.1,2020-05-03,Israel,1.0,Consumer_Staples
+Namely,New York City,HR,110.0,0.4,2020-05-01,United States,1.0,Industrial
+Culture Trip,London,Media,95.0,0.32,2020-05-01,United Kingdom,1.0,Communication
+Sandbox VR,SF Bay Area,Consumer,80.0,0.8,2020-05-01,United States,1.0,Consumer_Discretionary
+TheSkimm,New York City,Media,26.0,0.2,2020-05-01,United States,0.0,Communication
+Lyft,SF Bay Area,Transportation,982.0,0.17,2020-04-29,United States,1.0,Energy
+Kayak / OpenTable,Stamford,Travel,160.0,0.08,2020-04-29,United States,1.0,Consumer_Discretionary
+Lime,SF Bay Area,Transportation,80.0,0.13,2020-04-29,United States,1.0,Energy
+Transfix,New York City,Logistics,24.0,0.1,2020-04-29,United States,0.0,Industrial
+TripAdvisor,Boston,Travel,900.0,0.25,2020-04-28,United States,1.0,Consumer_Discretionary
+Renmoney,Lagos,Finance,391.0,0.5,2020-04-28,Nigeria,1.0,Financial
+Deliveroo,London,Food,367.0,0.15,2020-04-28,United Kingdom,1.0,Consumer_Staples
+App Annie,SF Bay Area,Data,80.0,0.18,2020-04-28,United States,1.0,Info_Tech
+OpenX,Los Angeles,Marketing,35.0,0.15,2020-04-28,United States,0.0,Industrial
+PayJoy,SF Bay Area,Finance,27.0,0.25,2020-04-28,United States,0.0,Financial
+Shipsi,Los Angeles,Retail,20.0,0.5,2020-04-28,United States,0.0,Consumer_Staples
+Automation Anywhere,SF Bay Area,Other,260.0,0.1,2020-04-27,United States,1.0,Other
+JetClosing,Seattle,Real Estate,20.0,0.2,2020-04-27,United States,0.0,Real_Estate
+Stoqo,Jakarta,Food,250.0,1.0,2020-04-25,Indonesia,1.0,Consumer_Staples
+Submittable,Missoula,Other,30.0,0.2,2020-04-25,United States,0.0,Other
+Divergent 3D,Los Angeles,Transportation,57.0,0.36,2020-04-24,United States,1.0,Energy
+Ada Support,Toronto,Support,36.0,0.23,2020-04-24,Canada,0.0,Info_Tech
+UPshow,Chicago,Marketing,19.0,0.3,2020-04-24,United States,0.0,Industrial
+Lighter Capital,Seattle,Finance,18.0,0.22,2020-04-24,United States,0.0,Financial
+Horizn Studios,Berlin,Travel,15.0,0.25,2020-04-24,Germany,0.0,Consumer_Discretionary
+Welkin Health,SF Bay Area,Healthcare,10.0,0.33,2020-04-24,United States,0.0,Healthcare
+Jiobit,Chicago,Consumer,6.0,0.21,2020-04-24,United States,0.0,Consumer_Discretionary
+TutorMundi,Sao Paulo,Education,4.0,1.0,2020-04-24,Brazil,0.0,Consumer_Discretionary
+StockX,Detroit,Retail,100.0,0.12,2020-04-23,United States,1.0,Consumer_Staples
+Zenefits,SF Bay Area,HR,87.0,0.15,2020-04-23,United States,1.0,Industrial
+Sisense,New York City,Data,80.0,0.09,2020-04-23,United States,1.0,Info_Tech
+Oscar Health,New York City,Healthcare,70.0,0.05,2020-04-23,United States,1.0,Healthcare
+Magic Leap,Miami,Consumer,1000.0,0.5,2020-04-22,United States,1.0,Consumer_Discretionary
+When I Work,Minneapolis,HR,55.0,0.35,2020-04-22,United States,1.0,Industrial
+Ike,SF Bay Area,Transportation,10.0,0.14,2020-04-22,United States,0.0,Energy
+Lending Club,SF Bay Area,Finance,460.0,0.3,2020-04-21,United States,1.0,Financial
+Houzz,SF Bay Area,Consumer,155.0,0.1,2020-04-21,United States,1.0,Consumer_Discretionary
+Casper,New York City,Retail,78.0,0.21,2020-04-21,United States,1.0,Consumer_Staples
+RealSelf,Seattle,Healthcare,40.0,0.13,2020-04-21,United States,0.0,Healthcare
+Freshbooks,Toronto,Finance,38.0,0.09,2020-04-21,Canada,0.0,Financial
+Patreon,SF Bay Area,Media,30.0,0.13,2020-04-21,United States,0.0,Communication
+Bringg,Tel Aviv,Logistics,10.0,0.1,2020-04-21,Israel,0.0,Industrial
+Klook,Hong Kong,Travel,300.0,0.15,2020-04-20,Hong Kong,1.0,Consumer_Discretionary
+ConsenSys,New York City,Crypto,91.0,0.14,2020-04-20,United States,1.0,Financial
+GumGum,Los Angeles,Marketing,90.0,0.25,2020-04-20,United States,1.0,Industrial
+Kueski,Guadalajara,Finance,90.0,0.3,2020-04-20,Mexico,1.0,Financial
+Movidesk,Blumenau,Support,33.0,0.25,2020-04-20,Brazil,0.0,Info_Tech
+Komodo Health,SF Bay Area,Healthcare,23.0,0.09,2020-04-20,United States,0.0,Healthcare
+Forward,SF Bay Area,Healthcare,10.0,0.03,2020-04-20,United States,0.0,Healthcare
+ContaAzul,Joinville,Education,140.0,0.35,2020-04-17,Brazil,1.0,Consumer_Discretionary
+Greenhouse Software,New York City,Recruiting,120.0,0.28,2020-04-17,United States,1.0,Industrial
+QuintoAndar,Sao Paulo,Real Estate,88.0,0.08,2020-04-17,Brazil,1.0,Real_Estate
+Loft,Sao Paulo,Real Estate,47.0,0.1,2020-04-17,Brazil,0.0,Real_Estate
+Zilingo,Singapore,Retail,44.0,0.05,2020-04-17,Singapore,0.0,Consumer_Staples
+Sweetgreen,Los Angeles,Food,35.0,0.1,2020-04-17,United States,0.0,Consumer_Staples
+People.ai,SF Bay Area,Marketing,30.0,0.18,2020-04-17,United States,0.0,Industrial
+Tor,Boston,Security,13.0,0.37,2020-04-17,United States,0.0,Industrial
+CarGurus,Boston,Transportation,130.0,0.13,2020-04-16,United States,1.0,Energy
+Funding Societies,Singapore,Finance,65.0,0.18,2020-04-16,Singapore,1.0,Financial
+CleverTap,Mumbai,Marketing,60.0,0.2,2020-04-16,India,1.0,Industrial
+Opendoor,SF Bay Area,Real Estate,600.0,0.35,2020-04-15,United States,1.0,Real_Estate
+GoPro,SF Bay Area,Consumer,200.0,0.2,2020-04-15,United States,1.0,Consumer_Discretionary
+Shop101,Mumbai,Retail,200.0,0.4,2020-04-15,India,1.0,Consumer_Staples
+Zume,SF Bay Area,Food,200.0,0.67,2020-04-15,United States,1.0,Consumer_Staples
+Carta,SF Bay Area,Finance,161.0,0.16,2020-04-15,United States,1.0,Financial
+Parsable,SF Bay Area,HR,40.0,0.25,2020-04-15,United States,0.0,Industrial
+Kodiak Robotics,SF Bay Area,Transportation,15.0,0.2,2020-04-15,United States,0.0,Energy
+The RealReal,SF Bay Area,Retail,235.0,0.1,2020-04-14,United States,1.0,Consumer_Staples
+TouchBistro,Toronto,Food,131.0,0.23,2020-04-14,Canada,1.0,Consumer_Staples
+Envoy,SF Bay Area,HR,58.0,0.3,2020-04-14,United States,1.0,Industrial
+VSCO,SF Bay Area,Consumer,45.0,0.35,2020-04-14,United States,0.0,Consumer_Discretionary
+Groupon,Chicago,Retail,2800.0,0.44,2020-04-13,United States,1.0,Consumer_Staples
+Zoox,SF Bay Area,Transportation,100.0,0.1,2020-04-13,United States,1.0,Energy
+Neon,Sao Paulo,Finance,70.0,0.1,2020-04-13,Brazil,1.0,Financial
+EasyPost,SF Bay Area,Logistics,50.0,0.25,2020-04-13,United States,1.0,Industrial
+Clearbanc,Toronto,Finance,17.0,0.08,2020-04-13,Canada,0.0,Financial
+Frontdesk,Milwaukee,Travel,35.0,0.16,2020-04-10,United States,0.0,Consumer_Discretionary
+NuoDB,Boston,Data,20.0,0.29,2020-04-10,United States,0.0,Info_Tech
+Rhumbix,SF Bay Area,Construction,16.0,0.27,2020-04-10,United States,0.0,Consumer_Discretionary
+Atsu,Seattle,Infrastructure,6.0,1.0,2020-04-10,United States,0.0,Industrial
+Geekwire,Seattle,Media,5.0,0.31,2020-04-10,United States,0.0,Communication
+Yelp,SF Bay Area,Consumer,1000.0,0.17,2020-04-09,United States,1.0,Consumer_Discretionary
+OneTrust,Atlanta,Legal,150.0,0.1,2020-04-09,United States,1.0,Industrial
+Omie,Sao Paulo,Finance,136.0,0.31,2020-04-09,Brazil,1.0,Financial
+Domo,Salt Lake City,Data,90.0,0.1,2020-04-09,United States,1.0,Info_Tech
+Matterport,SF Bay Area,Data,90.0,0.34,2020-04-09,United States,1.0,Info_Tech
+Clinc,Ann Arbor,Support,40.0,0.32,2020-04-09,United States,0.0,Info_Tech
+Mejuri,Toronto,Retail,36.0,0.15,2020-04-09,Canada,0.0,Consumer_Staples
+Code42,Minneapolis,Data,25.0,0.05,2020-04-09,United States,0.0,Info_Tech
+Lighthouse Labs,Toronto,Education,14.0,0.07,2020-04-09,Canada,0.0,Consumer_Discretionary
+LoopMe,London,Marketing,8.0,0.04,2020-04-09,United Kingdom,0.0,Industrial
+Eventbrite,SF Bay Area,Consumer,500.0,0.45,2020-04-08,United States,1.0,Consumer_Discretionary
+Meesho,Bengaluru,Retail,200.0,0.28,2020-04-08,India,1.0,Consumer_Staples
+Scoop,SF Bay Area,Transportation,92.0,0.33,2020-04-08,United States,1.0,Energy
+Unison,SF Bay Area,Finance,89.0,0.45,2020-04-08,United States,1.0,Financial
+Lever,SF Bay Area,Recruiting,86.0,0.4,2020-04-08,United States,1.0,Industrial
+Unbabel,Lisbon,Support,80.0,0.35,2020-04-08,Portugal,1.0,Info_Tech
+Button,New York City,Marketing,48.0,0.35,2020-04-08,United States,0.0,Industrial
+Eden / Managed By Q,New York City,Real Estate,40.0,0.4,2020-04-08,United States,0.0,Real_Estate
+Quantcast,SF Bay Area,Marketing,30.0,0.05,2020-04-08,United States,0.0,Industrial
+BVAccel,San Diego,Marketing,25.0,0.25,2020-04-08,United States,0.0,Industrial
+VideoAmp,Los Angeles,Marketing,21.0,0.1,2020-04-08,United States,0.0,Industrial
+Kenoby,Sao Paulo,Recruiting,18.0,0.16,2020-04-08,Brazil,0.0,Industrial
+Connected,Toronto,Product,17.0,0.1,2020-04-08,Canada,0.0,Materials
+GetNinjas,Sao Paulo,Consumer,11.0,0.1,2020-04-08,Brazil,0.0,Consumer_Discretionary
+Spyce,Boston,Food,4.0,0.12,2020-04-08,United States,0.0,Consumer_Staples
+Toast,Boston,Food,1300.0,0.5,2020-04-07,United States,1.0,Consumer_Staples
+ezCater,Boston,Food,400.0,0.44,2020-04-07,United States,1.0,Consumer_Staples
+Sage Therapeutics,Boston,Healthcare,340.0,0.53,2020-04-07,United States,1.0,Healthcare
+Redfin,Seattle,Real Estate,236.0,0.07,2020-04-07,United States,1.0,Real_Estate
+Branch Metrics,SF Bay Area,Marketing,100.0,0.2,2020-04-07,United States,1.0,Industrial
+Ibotta,Denver,Retail,87.0,0.15,2020-04-07,United States,1.0,Consumer_Staples
+Away,New York City,Retail,60.0,0.1,2020-04-07,United States,1.0,Consumer_Staples
+MediaMath,New York City,Marketing,53.0,0.08,2020-04-07,United States,1.0,Industrial
+Group Nine Media,New York City,Media,50.0,0.07,2020-04-07,United States,1.0,Communication
+Metromile,SF Bay Area,Finance,100.0,0.33,2020-04-06,United States,1.0,Financial
+Rock Content,Belo Horizonte,Marketing,100.0,0.2,2020-04-06,Brazil,1.0,Industrial
+BounceX,New York City,Marketing,77.0,0.2,2020-04-06,United States,1.0,Industrial
+C6 Bank,Sao Paulo,Finance,60.0,0.06,2020-04-06,Brazil,1.0,Financial
+Wordstream,Boston,Marketing,26.0,0.1,2020-04-06,United States,0.0,Industrial
+Cogito,Boston,Support,24.0,0.14,2020-04-06,United States,0.0,Info_Tech
+BusBud,Montreal,Transportation,23.0,0.32,2020-04-06,Canada,0.0,Energy
+Borrowell,Toronto,Finance,15.0,0.2,2020-04-06,Canada,0.0,Financial
+PerkSpot,Chicago,HR,10.0,0.1,2020-04-06,United States,0.0,Industrial
+Astra,SF Bay Area,Aerospace,40.0,0.25,2020-04-05,United States,0.0,Industrial
+Iflix,Kuala Lumpur,Consumer,50.0,0.12,2020-04-04,Malaysia,1.0,Consumer_Discretionary
+Gympass,Sao Paulo,Fitness,467.0,0.33,2020-04-03,Brazil,1.0,Consumer_Discretionary
+Sojern,SF Bay Area,Marketing,300.0,0.5,2020-04-03,United States,1.0,Industrial
+MaxMilhas,Belo Horizonte,Travel,167.0,0.42,2020-04-03,Brazil,1.0,Consumer_Discretionary
+Minted,SF Bay Area,Retail,147.0,0.37,2020-04-03,United States,1.0,Consumer_Staples
+Traveloka,Jakarta,Travel,100.0,0.1,2020-04-03,Indonesia,1.0,Consumer_Discretionary
+Arrive Logistics,Austin,Logistics,75.0,0.07,2020-04-03,United States,1.0,Industrial
+Salsify,Boston,Retail,60.0,0.13,2020-04-03,United States,1.0,Consumer_Staples
+Jetty,New York City,Finance,35.0,0.4,2020-04-03,United States,0.0,Financial
+D2iQ,SF Bay Area,Infrastructure,34.0,0.13,2020-04-03,United States,0.0,Industrial
+Bustle Digital Group,New York City,Media,24.0,0.08,2020-04-03,United States,0.0,Communication
+Opencare,Toronto,Healthcare,18.0,0.25,2020-04-03,Canada,0.0,Healthcare
+G/O Media Group,New York City,Media,14.0,0.05,2020-04-03,United States,0.0,Communication
+Tripbam,Dallas,Travel,10.0,0.25,2020-04-03,United States,0.0,Consumer_Discretionary
+Avantage Entertainment,Minneapolis,Media,5.0,0.2,2020-04-03,United States,0.0,Communication
+MindBody,San Luis Obispo,Fitness,700.0,0.35,2020-04-02,United States,1.0,Consumer_Discretionary
+Katerra,SF Bay Area,Construction,240.0,0.03,2020-04-02,United States,1.0,Consumer_Discretionary
+Ritual,Toronto,Food,196.0,0.54,2020-04-02,Canada,1.0,Consumer_Staples
+ClassPass,New York City,Fitness,154.0,0.22,2020-04-02,United States,1.0,Consumer_Discretionary
+eGym,Munich,Fitness,100.0,0.25,2020-04-02,Germany,1.0,Consumer_Discretionary
+Industrious,New York City,Real Estate,90.0,0.2,2020-04-02,United States,1.0,Real_Estate
+1stdibs,New York City,Retail,70.0,0.17,2020-04-02,United States,1.0,Consumer_Staples
+ThirdLove,SF Bay Area,Retail,65.0,0.3,2020-04-02,United States,1.0,Consumer_Staples
+The Predictive Index,Boston,HR,59.0,0.25,2020-04-02,United States,1.0,Industrial
+Jobcase,Boston,Recruiting,39.0,0.2,2020-04-02,United States,0.0,Industrial
+Dynamic Signal,SF Bay Area,HR,35.0,0.19,2020-04-02,United States,0.0,Industrial
+Sauce Labs,SF Bay Area,Infrastructure,30.0,0.15,2020-04-02,United States,0.0,Industrial
+TripleLift,New York City,Marketing,23.0,0.07,2020-04-02,United States,0.0,Industrial
+Coding Dojo,Seattle,Education,7.0,0.07,2020-04-02,United States,0.0,Consumer_Discretionary
+Instamojo,Bengaluru,Finance,6.0,0.06,2020-04-02,India,0.0,Financial
+Synergysuite,Salt Lake City,Food,5.0,0.07,2020-04-02,United States,0.0,Consumer_Staples
+Flymya,Yangon,Travel,200.0,0.33,2020-04-01,Myanmar,1.0,Consumer_Discretionary
+PatientPop,Los Angeles,Healthcare,100.0,0.2,2020-04-01,United States,1.0,Healthcare
+Showpad,Chicago,Marketing,52.0,0.12,2020-04-01,United States,1.0,Industrial
+Highsnobiety,Berlin,Media,51.0,0.25,2020-04-01,Germany,1.0,Communication
+Earnin,SF Bay Area,Finance,50.0,0.2,2020-04-01,United States,1.0,Financial
+Wonolo,SF Bay Area,Recruiting,46.0,0.13,2020-04-01,United States,0.0,Industrial
+Acko,Mumbai,Finance,45.0,0.09,2020-04-01,India,0.0,Financial
+Moovel,Portland,Transportation,28.0,0.37,2020-04-01,United States,0.0,Energy
+Aqua Security,Tel Aviv,Security,24.0,0.09,2020-04-01,Israel,0.0,Industrial
+Crayon,Boston,Marketing,20.0,0.2,2020-04-01,United States,0.0,Industrial
+Sensibill,Toronto,Finance,17.0,0.2,2020-04-01,Canada,0.0,Financial
+Usermind,Seattle,Marketing,15.0,0.25,2020-04-01,United States,0.0,Industrial
+Incredible Health,SF Bay Area,Healthcare,9.0,0.4,2020-04-01,United States,0.0,Healthcare
+KeepTruckin,SF Bay Area,Logistics,349.0,0.18,2020-03-31,United States,1.0,Industrial
+AdRoll,Salt Lake City,Marketing,210.0,0.3,2020-03-31,United States,1.0,Industrial
+Rover,Seattle,Consumer,194.0,0.41,2020-03-31,United States,1.0,Consumer_Discretionary
+Turo,SF Bay Area,Transportation,108.0,0.3,2020-03-31,United States,1.0,Energy
+uShip,Austin,Logistics,65.0,0.37,2020-03-31,United States,1.0,Industrial
+SkySlope,Sacramento,Real Estate,50.0,0.25,2020-03-31,United States,1.0,Real_Estate
+Zenoti,Seattle,Fitness,17.0,0.04,2020-03-31,United States,0.0,Consumer_Discretionary
+DialSource,Sacramento,Marketing,5.0,0.14,2020-03-31,United States,0.0,Industrial
+Thumbtack,SF Bay Area,Consumer,250.0,0.3,2020-03-30,United States,1.0,Consumer_Discretionary
+RigUp,Austin,Energy,120.0,0.25,2020-03-30,United States,1.0,Energy
+FabHotels,New Delhi,Travel,80.0,0.2,2020-03-30,India,1.0,Consumer_Discretionary
+Hibob,Tel Aviv,HR,70.0,0.3,2020-03-30,Israel,1.0,Industrial
+PeerStreet,Los Angeles,Finance,51.0,0.3,2020-03-30,United States,1.0,Financial
+Maven,Seattle,Media,31.0,0.09,2020-03-30,United States,0.0,Communication
+Blume Global,SF Bay Area,Logistics,30.0,0.1,2020-03-30,United States,0.0,Industrial
+Loftsmart,New York City,Real Estate,25.0,0.75,2020-03-30,United States,0.0,Real_Estate
+Iris Nova,New York City,Food,9.0,0.5,2020-03-30,United States,0.0,Consumer_Staples
+ZipRecruiter,Los Angeles,Recruiting,400.0,0.39,2020-03-29,United States,1.0,Industrial
+Amplero,Seattle,Marketing,17.0,1.0,2020-03-29,United States,0.0,Industrial
+TravelTriangle,Gurugram,Travel,250.0,0.5,2020-03-28,India,1.0,Consumer_Discretionary
+OneWeb,London,Aerospace,451.0,0.85,2020-03-27,United Kingdom,1.0,Industrial
+Bird,Los Angeles,Transportation,406.0,0.3,2020-03-27,United States,1.0,Energy
+HOOQ,Singapore,Consumer,250.0,1.0,2020-03-27,Singapore,1.0,Consumer_Discretionary
+Blueground,New York City,Real Estate,130.0,0.25,2020-03-27,United States,1.0,Real_Estate
+Knotel,New York City,Real Estate,127.0,0.3,2020-03-27,United States,1.0,Real_Estate
+Getaround,SF Bay Area,Transportation,100.0,0.25,2020-03-27,United States,1.0,Energy
+Zipcar,Boston,Transportation,100.0,0.2,2020-03-27,United States,1.0,Energy
+Mogo,Vancouver,Finance,78.0,0.3,2020-03-27,Canada,1.0,Financial
+Bench,Vancouver,Finance,47.0,0.1,2020-03-27,Canada,0.0,Financial
+Bevi,Boston,Food,30.0,0.2,2020-03-27,United States,0.0,Consumer_Staples
+Textio,Seattle,Recruiting,30.0,0.2,2020-03-27,United States,0.0,Industrial
+B8ta,SF Bay Area,Retail,250.0,0.5,2020-03-26,United States,1.0,Consumer_Staples
+Puppet,Portland,Infrastructure,50.0,0.1,2020-03-26,United States,1.0,Industrial
+Ecobee,Toronto,Energy,47.0,0.1,2020-03-26,Canada,0.0,Energy
+Peerspace,SF Bay Area,Real Estate,41.0,0.75,2020-03-26,United States,0.0,Real_Estate
+GoSpotCheck,Denver,Retail,23.0,0.2,2020-03-26,United States,0.0,Consumer_Staples
+Consider.co,SF Bay Area,Other,13.0,1.0,2020-03-26,United States,0.0,Other
+TripActions,SF Bay Area,Travel,300.0,0.25,2020-03-25,United States,1.0,Consumer_Discretionary
+Rangle,Toronto,Product,78.0,0.3,2020-03-25,Canada,1.0,Materials
+O'Reilly Media,SF Bay Area,Media,75.0,0.15,2020-03-25,United States,1.0,Communication
+WanderJaunt,SF Bay Area,Travel,56.0,0.23,2020-03-25,United States,1.0,Consumer_Discretionary
+OutboundEngine,Austin,Marketing,52.0,0.28,2020-03-25,United States,1.0,Industrial
+Wonderschool,SF Bay Area,Education,50.0,0.75,2020-03-25,United States,1.0,Consumer_Discretionary
+Overtime,New York City,Media,30.0,0.23,2020-03-25,United States,0.0,Communication
+Jama,Portland,Product,12.0,0.05,2020-03-25,United States,0.0,Materials
+Sonder,SF Bay Area,Travel,400.0,0.33,2020-03-24,United States,1.0,Consumer_Discretionary
+Foodsby,Minneapolis,Food,87.0,0.67,2020-03-24,United States,1.0,Consumer_Staples
+Zeus Living,SF Bay Area,Real Estate,80.0,0.3,2020-03-24,United States,1.0,Real_Estate
+Compass,New York City,Real Estate,375.0,0.15,2020-03-23,United States,1.0,Real_Estate
+Convene,New York City,Real Estate,150.0,0.18,2020-03-23,United States,1.0,Real_Estate
+Leafly,Seattle,Retail,91.0,0.5,2020-03-23,United States,1.0,Consumer_Staples
+The Guild,Austin,Travel,38.0,0.22,2020-03-23,United States,0.0,Consumer_Discretionary
+GrayMeta,Los Angeles,Data,20.0,0.4,2020-03-23,United States,0.0,Info_Tech
+Triplebyte,SF Bay Area,Recruiting,15.0,0.17,2020-03-23,United States,0.0,Industrial
+Ladder Life,SF Bay Area,Finance,13.0,0.25,2020-03-23,United States,0.0,Financial
+Flywheel Sports,New York City,Fitness,784.0,0.98,2020-03-20,United States,1.0,Consumer_Discretionary
+CTO.ai,Vancouver,Infrastructure,30.0,0.5,2020-03-20,Canada,0.0,Industrial
+Ejento,SF Bay Area,Recruiting,84.0,1.0,2020-03-19,United States,1.0,Industrial
+Remote Year,Chicago,Travel,50.0,0.5,2020-03-19,United States,1.0,Consumer_Discretionary
+Flytedesk,Boulder,Marketing,4.0,0.2,2020-03-18,United States,0.0,Industrial
+Inspirato,Denver,Travel,130.0,0.22,2020-03-16,United States,1.0,Consumer_Discretionary
+Help.com,Austin,Support,16.0,1.0,2020-03-16,United States,0.0,Info_Tech
+HopSkipDrive,Los Angeles,Transportation,8.0,0.1,2020-03-13,United States,0.0,Energy
+Panda Squad,SF Bay Area,Consumer,6.0,0.75,2020-03-13,United States,0.0,Consumer_Discretionary
+Tamara Mellon,Los Angeles,Retail,20.0,0.4,2020-03-12,United States,0.0,Consumer_Staples
