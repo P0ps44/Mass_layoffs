@@ -19,3 +19,9 @@ Some data such as the sources, list of employees laid off and date of addition h
 ## The questions that the team plans to answer with the project
 
 We're looking at what industry would be effected next by looking at quartily data layoffs.   
+
+## Where the Story Begins
+
+[Mass layoff Tableau](https://public.tableau.com/app/profile/brandon.sangster/viz/Part1incomplete/Story1?publish=yes)
+
+ 
