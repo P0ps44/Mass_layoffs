@@ -1,8 +1,0 @@
-company,location,industry,total_laid_off,percentage_laid_off,date,country,mass_layoff
-Bounce,Bengaluru,Transportation,200.0,0.4,2021-02-22,India,1.0
-Limelight,New York City,Recruiting,13.0,1.0,2021-02-04,United States,0.0
-Quandoo,Berlin,Food,87.0,0.2,2021-02-03,Germany,1.0
-Hubba,Toronto,Retail,45.0,1.0,2021-02-01,Canada,0.0
-Postmates,SF Bay Area,Food,180.0,0.15,2021-01-23,United States,1.0
-Pocketmath,Singapore,Marketing,21.0,1.0,2021-01-20,Singapore,0.0
-Dropbox,SF Bay Area,Other,315.0,0.15,2021-01-13,United States,1.0
