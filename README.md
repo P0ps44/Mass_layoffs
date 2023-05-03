@@ -21,13 +21,9 @@
 
 ![](Images/mass_layoff_by_industry.png)
 
-- What then struck us when looking over the full data from 2020 to 2023 was that there was a year long period that there were hardly any mass 
-- layoffs. Basically, from April 2020 until December 2021 the mass layoffs were not anything people needed to worry about.  This led us to wonder why? 
-- During this time many of us stayed at home and didn’t go out if only for necessity.  After doing research we discovered the government had 
-- a program that started in April 2020 and lasted until May 2021.  This program was called the Paycheck Protection Plan (PPP) 
-- which gave money to any business that employed 500 or less workers.  This program stated that as long as you kept your employees and 
-- didn’t lay them off your PPP loan would be 100% forgiven.  During this time the US government gave out $800 billion dollars to these businesses 
-- that kept people employed.  
+- What then struck us when looking over the full data from 2020 to 2023 was that there was a year long period that there were hardly any mass layoffs. Basically, from April 2020 until December 2021 the mass layoffs were not anything people needed to worry about.  This led us to wonder why? 
+
+- During this time many of us stayed at home and didn’t go out if only for necessity.  After doing research we discovered the government had a program that started in April 2020 and lasted until May 2021.  This program was called the Paycheck Protection Plan (PPP) which gave money to any business that employed 500 or less workers.  This program stated that as long as you kept your employees and didn’t lay them off your PPP loan would be 100% forgiven.  During this time the US government gave out $800 billion dollars to these businesses that kept people employed.  
 
 ![](Images/mass_layoff_2020_2022.png)
 
