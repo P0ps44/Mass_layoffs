@@ -31,9 +31,7 @@
 
 ## Prediction 
 
--Once we did our machine learning  we were able to get our accuracy up to .967, which we were very happy about.  What it shows is that 
-- the next industries that may be looking to take in more mass layoffs are Financial, Industrial and Consumer Staples.  This may not 
--be a total surprise just because of all the recent recession talk.  
+-Once we did our machine learning  we were able to get our accuracy up to .967, which we were very happy about.  What it shows is that the next industries that may be looking to take in more mass layoffs are Financial, Industrial and Consumer Staples.  This may not be a total surprise just because of all the recent recession talk.  
  
  ![This is an image](images/b_machine.png)
  
@@ -43,13 +41,7 @@
 
 ![This is an image](images/b_before.png)
 
-- Once we cleaned that up and started to dig deeper, we noticed that we had two columns that gave us the percentage of workers laid off and
-- also the total number laid off.  This made us wonder what would be considered a mass layoff?  The issue being a big company like Google 
-- could layoff thousands of workers but that would only be 5% of their staff but a smaller company may lay off 50 employees and that may be
-- 50% of their staff.  We researched and the US Government states that a mass layoff is any reduction in workers of over 50. This is based off 
-- the Worker Adjustment and Retraining Notification Act in 1988 (WARN ACT).  With that information in hand we then created a new column in our
-- data set that would calculate if there were more than 50 people laid off, then it would be a mass layoff and if not, it wasn’t a mass layoff
-- and we couldn’t use that data.
+- Once we cleaned that up and started to dig deeper, we noticed that we had two columns that gave us the percentage of workers laid off and also the total number laid off. This made us wonder what would be considered a mass layoff? The issue being a big company like Google could layoff thousands of workers but that would only be 5% of their staff but a smaller company may lay off 50 employees and that may be 50% of their staff.  We researched and the US Government states that a mass layoff is any reduction in workers of over 50. This is based off the Worker Adjustment and Retraining Notification Act in 1988 (WARN ACT).  With that information in hand we then created a new column in our data set that would calculate if there were more than 50 people laid off, then it would be a mass layoff and if not, it wasn’t a mass layoff and we couldn’t use that data.
 
 - Our next issue came up as we started to graph our data.  We just had too much information it seemed, as you can see in the scatter graph below.
 
