@@ -2,15 +2,11 @@
 ## The Reasoning Behind our Topic 
 - Why did we choose the subject of Mass Layoffs?  When you watch the news lately it seems that mass layoffs have been a very hot topic. 
 - We were curious to see what may have caused this wave of mass layoffs and questioned if it had any correlation with the COVID pandemic. 
-- We also then thought if we could find a pattern in our data over the last three years maybe we could predict what might be the next 
-- industry to be next on the list.
+- We also then thought if we could find a pattern in our data over the last three years maybe we could predict what might be the next industry to be next on the list.
 
 ## Our Data Set
 
-- We found our data in Kaggle which fit perfectly with what we had been questioning.  The mass layoff data set that was in Kaggle ranged
-- from the start of the pandemic (official start date of March 11, 2020) until April 7th, 2023.  Kaggle had the CSV but the site that 
-- originally held the data is Layoffs.fyi.  This site compiled all this information via websites such as Bloomberg, The New York Times, 
--Tech Crunch and the list goes on.  We felt that this data then was very safe to review and use for our analysis. 
+- We found our data in Kaggle which fit perfectly with what we had been questioning.  The mass layoff data set that was in Kaggle ranged from the start of the pandemic (official start date of March 11, 2020) until April 7th, 2023.  Kaggle had the CSV but the site that originally held the data is Layoffs.fyi.  This site compiled all this information via websites such as Bloomberg, The New York Times, Tech Crunch and the list goes on.  We felt that this data then was very safe to review and use for our analysis. 
 
 # Analysis
 
