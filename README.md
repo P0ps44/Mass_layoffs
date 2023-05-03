@@ -35,8 +35,7 @@
 - Once the program ran its course is when we start seeing the rapid rise starting in January of 2022 of the mass layoffs in various industries.  
 - This is where we tried to analyze what would be the next industry that may be hit by mass layoffs.  
 
-
---------Show our work/graphs/tableau.-------
+[Link to Public Tablau](https://public.tableau.com/app/profile/brandon.sangster/viz/Mass_layoff_finalv/Masslayoffsstory)
 
 ## Prediction 
 
